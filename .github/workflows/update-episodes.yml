@@ -24,11 +24,10 @@ jobs:
       - name: Run update script
         run: node scripts/update-episodes.js
 
-      - name: Commit and push changes
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/episodes.json
-          
-          # Only commit if there are actually changes in episodes.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily anime episodes update" && git push)
+          git config --global user.name "Nihar"
+          git config --global user.email "nr8280@srmist.edu.in"
+          git add data/
+          git commit -m "Automated update of anime episodes [skip ci]" || echo "No changes to commit"
+          git push
