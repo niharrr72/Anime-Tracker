@@ -1,0 +1,34 @@
+name: Daily Anime Update
+
+on:
+  schedule:
+    # Run at 00:30 UTC (6:00 AM IST) and 12:30 UTC (6:00 PM IST)
+    - cron: '30 0,12 * * *'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+jobs:
+  update-episodes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit changes
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Use modern Node that has native fetch()
+
+      - name: Run update script
+        run: node scripts/update-episodes.js
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/episodes.json
+          
+          # Only commit if there are actually changes in episodes.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated daily anime episodes update" && git push)

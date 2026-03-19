@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Anime Daily Tracker — Episodes That Just Aired</title>
+  <meta name="description" content="Track daily anime episode releases. See which episodes aired today, browse the past 30 days, and search your favourite series." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Orbitron:wght@700;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- Loading Spinner -->
+  <div id="loading-overlay" class="loading-overlay" role="status" aria-live="polite">
+    <div class="spinner-wrapper">
+      <div class="spinner"></div>
+      <p class="loading-text">Fetching today's episodes…</p>
+    </div>
+  </div>
+
+  <!-- Header -->
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="logo-area">
+        <span class="logo-icon">⚡</span>
+        <h1 class="site-title">Anime Daily <span class="accent">Tracker</span></h1>
+      </div>
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input
+          type="text"
+          id="search-input"
+          class="search-input"
+          placeholder="Search anime… e.g. Jujutsu Kaisen"
+          aria-label="Search anime by name"
+          autocomplete="off"
+        />
+        <button id="clear-search" class="clear-btn" aria-label="Clear search" hidden>✕</button>
+      </div>
+    </div>
+    <div id="search-status" class="search-status" hidden></div>
+  </header>
+
+  <!-- Main Content -->
+  <main id="main-content">
+
+    <!-- Today's Episodes -->
+    <section class="section today-section" id="today-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span class="pulse-dot"></span>
+          Today's Episodes
+        </h2>
+        <span id="today-date-label" class="date-label"></span>
+      </div>
+      <div id="today-empty" class="empty-state" hidden>
+        <p>😴 No episodes today — check back tomorrow!</p>
+      </div>
+      <div id="today-grid" class="card-grid"></div>
+    </section>
+
+    <!-- 30-Day Feed -->
+    <section class="section feed-section" id="feed-section-wrapper">
+      <div class="section-header">
+        <h2 class="section-title">📅 Past 30 Days</h2>
+      </div>
+      <div id="no-results" class="empty-state" hidden>
+        <p>🔎 No anime found matching your search.</p>
+      </div>
+      <div id="feed-section" class="feed-section"></div>
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Data updates every morning at 09:00 AM IST · Last updated: <span id="last-updated"></span></p>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
