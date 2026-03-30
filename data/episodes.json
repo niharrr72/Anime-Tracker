@@ -69,7 +69,7 @@
     "anime": "Rooster Fighter",
     "season": 1,
     "episode": 3,
-    "title": "Episode 3",
+    "title": "The Parable of the Three Birds",
     "date": "2026-03-30",
     "releaseTime": "09:30 PM",
     "streaming": [
@@ -141,7 +141,7 @@
     ],
     "malId": 62523,
     "score": 0,
-    "members": 326,
+    "members": 327,
     "image": "https://myanimelist.net/images/anime/1745/152126.webp"
   },
   {
@@ -173,7 +173,7 @@
     ],
     "malId": 2406,
     "score": 6.16,
-    "members": 10336,
+    "members": 10337,
     "image": "https://myanimelist.net/images/anime/1008/98996.webp"
   },
   {
@@ -188,8 +188,8 @@
       "Crunchyroll"
     ],
     "malId": 60534,
-    "score": 7.52,
-    "members": 6405,
+    "score": 7.53,
+    "members": 6408,
     "image": "https://myanimelist.net/images/anime/1533/146981.webp"
   },
   {
@@ -205,7 +205,7 @@
     ],
     "malId": 62083,
     "score": 0,
-    "members": 175,
+    "members": 176,
     "image": "https://myanimelist.net/images/anime/1521/151096.webp"
   },
   {
@@ -220,8 +220,8 @@
       "Crunchyroll"
     ],
     "malId": 63042,
-    "score": 7.54,
-    "members": 4334,
+    "score": 7.55,
+    "members": 4370,
     "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   {
@@ -274,23 +274,7 @@
     "image": "https://myanimelist.net/images/anime/1129/151615.webp"
   },
   {
-    "id": 159,
-    "anime": "Agents of the Four Seasons: Dance of Spring",
-    "season": 1,
-    "episode": 1,
-    "title": "Haru no Mai ",
-    "date": "2026-03-29",
-    "releaseTime": "09:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 61443,
-    "score": 7.71,
-    "members": 21367,
-    "image": "https://myanimelist.net/images/anime/1457/155524.webp"
-  },
-  {
-    "id": 164,
+    "id": 163,
     "anime": "A Misanthrope Teaches a Class for Demi-Humans",
     "season": 1,
     "episode": 12,
@@ -306,11 +290,27 @@
     "image": "https://myanimelist.net/images/anime/1387/154934.webp"
   },
   {
+    "id": 164,
+    "anime": "Agents of the Four Seasons: Dance of Spring",
+    "season": 1,
+    "episode": 1,
+    "title": "Haru no Mai ",
+    "date": "2026-03-29",
+    "releaseTime": "09:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 61443,
+    "score": 7.68,
+    "members": 24078,
+    "image": "https://myanimelist.net/images/anime/1993/156385.webp"
+  },
+  {
     "id": 169,
     "anime": "Scum of the Brave",
     "season": 1,
     "episode": 12,
-    "title": "Episode 12",
+    "title": "Yuusha no Himitsu ",
     "date": "2026-03-29",
     "releaseTime": "10:25 PM",
     "streaming": [
@@ -383,7 +383,7 @@
     ],
     "malId": 50418,
     "score": 5.59,
-    "members": 3864,
+    "members": 3862,
     "image": "https://myanimelist.net/images/anime/1552/119871.webp"
   },
   {
@@ -399,7 +399,7 @@
     ],
     "malId": 62649,
     "score": 6.34,
-    "members": 1535,
+    "members": 1544,
     "image": "https://myanimelist.net/images/anime/1801/154108.webp"
   },
   {
@@ -511,7 +511,7 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 93898,
+    "members": 93929,
     "image": "https://myanimelist.net/images/anime/10/59897.webp"
   },
   {
@@ -575,7 +575,7 @@
     ],
     "malId": 61765,
     "score": 0,
-    "members": 476,
+    "members": 477,
     "image": "https://myanimelist.net/images/anime/1859/150334.webp"
   },
   {
@@ -623,7 +623,7 @@
     ],
     "malId": 42295,
     "score": 6.12,
-    "members": 2367,
+    "members": 2369,
     "image": "https://myanimelist.net/images/anime/1602/150098.webp"
   },
   {
@@ -760,7 +760,7 @@
     "anime": "Theatre of Darkness: Yamishibai 16",
     "season": 1,
     "episode": 11,
-    "title": "Episode 11",
+    "title": "Yume Musubi ",
     "date": "2026-03-23",
     "releaseTime": "11:50 PM",
     "streaming": [
@@ -776,7 +776,7 @@
     "anime": "Theatre of Darkness: Yamishibai 16",
     "season": 1,
     "episode": 11,
-    "title": "Episode 11",
+    "title": "Yume Musubi ",
     "date": "2026-03-23",
     "releaseTime": "11:50 PM",
     "streaming": [
@@ -800,7 +800,7 @@
     ],
     "malId": 62523,
     "score": 0,
-    "members": 326,
+    "members": 327,
     "image": "https://myanimelist.net/images/anime/1745/152126.webp"
   },
   {
@@ -832,7 +832,7 @@
     ],
     "malId": 2406,
     "score": 6.16,
-    "members": 10336,
+    "members": 10337,
     "image": "https://myanimelist.net/images/anime/1008/98996.webp"
   },
   {
@@ -847,8 +847,8 @@
       "Crunchyroll"
     ],
     "malId": 60534,
-    "score": 7.52,
-    "members": 6405,
+    "score": 7.53,
+    "members": 6408,
     "image": "https://myanimelist.net/images/anime/1533/146981.webp"
   },
   {
@@ -864,7 +864,7 @@
     ],
     "malId": 62083,
     "score": 0,
-    "members": 175,
+    "members": 176,
     "image": "https://myanimelist.net/images/anime/1521/151096.webp"
   },
   {
@@ -879,8 +879,8 @@
       "Crunchyroll"
     ],
     "malId": 63042,
-    "score": 7.54,
-    "members": 4334,
+    "score": 7.55,
+    "members": 4370,
     "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   {
@@ -933,7 +933,7 @@
     "image": "https://myanimelist.net/images/anime/1129/151615.webp"
   },
   {
-    "id": 163,
+    "id": 162,
     "anime": "A Misanthrope Teaches a Class for Demi-Humans",
     "season": 1,
     "episode": 11,
@@ -1026,7 +1026,7 @@
     ],
     "malId": 50418,
     "score": 5.59,
-    "members": 3864,
+    "members": 3862,
     "image": "https://myanimelist.net/images/anime/1552/119871.webp"
   },
   {
@@ -1042,7 +1042,7 @@
     ],
     "malId": 62649,
     "score": 6.34,
-    "members": 1535,
+    "members": 1544,
     "image": "https://myanimelist.net/images/anime/1801/154108.webp"
   },
   {
@@ -1154,7 +1154,7 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 93898,
+    "members": 93929,
     "image": "https://myanimelist.net/images/anime/10/59897.webp"
   },
   {
@@ -1218,7 +1218,7 @@
     ],
     "malId": 61765,
     "score": 0,
-    "members": 476,
+    "members": 477,
     "image": "https://myanimelist.net/images/anime/1859/150334.webp"
   },
   {
@@ -1266,7 +1266,7 @@
     ],
     "malId": 42295,
     "score": 6.12,
-    "members": 2367,
+    "members": 2369,
     "image": "https://myanimelist.net/images/anime/1602/150098.webp"
   },
   {
@@ -1443,7 +1443,7 @@
     ],
     "malId": 62523,
     "score": 0,
-    "members": 326,
+    "members": 327,
     "image": "https://myanimelist.net/images/anime/1745/152126.webp"
   },
   {
@@ -1475,7 +1475,7 @@
     ],
     "malId": 2406,
     "score": 6.16,
-    "members": 10336,
+    "members": 10337,
     "image": "https://myanimelist.net/images/anime/1008/98996.webp"
   },
   {
@@ -1490,8 +1490,8 @@
       "Crunchyroll"
     ],
     "malId": 60534,
-    "score": 7.52,
-    "members": 6405,
+    "score": 7.53,
+    "members": 6408,
     "image": "https://myanimelist.net/images/anime/1533/146981.webp"
   },
   {
@@ -1507,7 +1507,7 @@
     ],
     "malId": 62083,
     "score": 0,
-    "members": 175,
+    "members": 176,
     "image": "https://myanimelist.net/images/anime/1521/151096.webp"
   },
   {
@@ -1522,8 +1522,8 @@
       "Crunchyroll"
     ],
     "malId": 63042,
-    "score": 7.54,
-    "members": 4334,
+    "score": 7.55,
+    "members": 4370,
     "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   {
@@ -1576,7 +1576,7 @@
     "image": "https://myanimelist.net/images/anime/1129/151615.webp"
   },
   {
-    "id": 162,
+    "id": 161,
     "anime": "A Misanthrope Teaches a Class for Demi-Humans",
     "season": 1,
     "episode": 10,
@@ -1669,7 +1669,7 @@
     ],
     "malId": 50418,
     "score": 5.59,
-    "members": 3864,
+    "members": 3862,
     "image": "https://myanimelist.net/images/anime/1552/119871.webp"
   },
   {
@@ -1685,7 +1685,7 @@
     ],
     "malId": 62649,
     "score": 6.34,
-    "members": 1535,
+    "members": 1544,
     "image": "https://myanimelist.net/images/anime/1801/154108.webp"
   },
   {
@@ -1797,7 +1797,7 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 93898,
+    "members": 93929,
     "image": "https://myanimelist.net/images/anime/10/59897.webp"
   },
   {
@@ -1861,7 +1861,7 @@
     ],
     "malId": 61765,
     "score": 0,
-    "members": 476,
+    "members": 477,
     "image": "https://myanimelist.net/images/anime/1859/150334.webp"
   },
   {
@@ -1909,7 +1909,7 @@
     ],
     "malId": 42295,
     "score": 6.12,
-    "members": 2367,
+    "members": 2369,
     "image": "https://myanimelist.net/images/anime/1602/150098.webp"
   },
   {
@@ -2070,7 +2070,7 @@
     ],
     "malId": 62523,
     "score": 0,
-    "members": 326,
+    "members": 327,
     "image": "https://myanimelist.net/images/anime/1745/152126.webp"
   },
   {
@@ -2102,7 +2102,7 @@
     ],
     "malId": 2406,
     "score": 6.16,
-    "members": 10336,
+    "members": 10337,
     "image": "https://myanimelist.net/images/anime/1008/98996.webp"
   },
   {
@@ -2117,8 +2117,8 @@
       "Crunchyroll"
     ],
     "malId": 60534,
-    "score": 7.52,
-    "members": 6405,
+    "score": 7.53,
+    "members": 6408,
     "image": "https://myanimelist.net/images/anime/1533/146981.webp"
   },
   {
@@ -2134,7 +2134,7 @@
     ],
     "malId": 62083,
     "score": 0,
-    "members": 175,
+    "members": 176,
     "image": "https://myanimelist.net/images/anime/1521/151096.webp"
   },
   {
@@ -2149,8 +2149,8 @@
       "Crunchyroll"
     ],
     "malId": 63042,
-    "score": 7.54,
-    "members": 4334,
+    "score": 7.55,
+    "members": 4370,
     "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   {
@@ -2203,7 +2203,7 @@
     "image": "https://myanimelist.net/images/anime/1129/151615.webp"
   },
   {
-    "id": 161,
+    "id": 160,
     "anime": "A Misanthrope Teaches a Class for Demi-Humans",
     "season": 1,
     "episode": 9,
@@ -2296,7 +2296,7 @@
     ],
     "malId": 50418,
     "score": 5.59,
-    "members": 3864,
+    "members": 3862,
     "image": "https://myanimelist.net/images/anime/1552/119871.webp"
   },
   {
@@ -2312,7 +2312,7 @@
     ],
     "malId": 62649,
     "score": 6.34,
-    "members": 1535,
+    "members": 1544,
     "image": "https://myanimelist.net/images/anime/1801/154108.webp"
   },
   {
@@ -2424,7 +2424,7 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 93898,
+    "members": 93929,
     "image": "https://myanimelist.net/images/anime/10/59897.webp"
   },
   {
@@ -2488,7 +2488,7 @@
     ],
     "malId": 61765,
     "score": 0,
-    "members": 476,
+    "members": 477,
     "image": "https://myanimelist.net/images/anime/1859/150334.webp"
   },
   {
@@ -2536,7 +2536,7 @@
     ],
     "malId": 42295,
     "score": 6.12,
-    "members": 2367,
+    "members": 2369,
     "image": "https://myanimelist.net/images/anime/1602/150098.webp"
   },
   {
@@ -2697,7 +2697,7 @@
     ],
     "malId": 62523,
     "score": 0,
-    "members": 326,
+    "members": 327,
     "image": "https://myanimelist.net/images/anime/1745/152126.webp"
   },
   {
@@ -2729,7 +2729,7 @@
     ],
     "malId": 2406,
     "score": 6.16,
-    "members": 10336,
+    "members": 10337,
     "image": "https://myanimelist.net/images/anime/1008/98996.webp"
   },
   {
@@ -2744,8 +2744,8 @@
       "Crunchyroll"
     ],
     "malId": 60534,
-    "score": 7.52,
-    "members": 6405,
+    "score": 7.53,
+    "members": 6408,
     "image": "https://myanimelist.net/images/anime/1533/146981.webp"
   },
   {
@@ -2761,7 +2761,7 @@
     ],
     "malId": 62083,
     "score": 0,
-    "members": 175,
+    "members": 176,
     "image": "https://myanimelist.net/images/anime/1521/151096.webp"
   },
   {
@@ -2776,8 +2776,8 @@
       "Crunchyroll"
     ],
     "malId": 63042,
-    "score": 7.54,
-    "members": 4334,
+    "score": 7.55,
+    "members": 4370,
     "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   {
@@ -2830,7 +2830,7 @@
     "image": "https://myanimelist.net/images/anime/1129/151615.webp"
   },
   {
-    "id": 160,
+    "id": 159,
     "anime": "A Misanthrope Teaches a Class for Demi-Humans",
     "season": 1,
     "episode": 8,
