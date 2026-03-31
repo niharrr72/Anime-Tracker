@@ -231,14 +231,6 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1387/154934.webp"
   },
-  "agents of the four seasons: dance of spring": {
-    "anime": "Agents of the Four Seasons: Dance of Spring",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-05",
-    "releaseTime": "09:30 PM",
-    "image": "https://myanimelist.net/images/anime/1993/156385.webp"
-  },
   "scum of the brave": {
     "anime": "Scum of the Brave",
     "season": 1,
@@ -254,6 +246,14 @@
     "date": "2026-04-05",
     "releaseTime": "06:30 AM",
     "image": "https://myanimelist.net/images/anime/1776/151242.webp"
+  },
+  "agents of the four seasons: dance of spring": {
+    "anime": "Agents of the Four Seasons: Dance of Spring",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-05",
+    "releaseTime": "09:30 PM",
+    "image": "https://myanimelist.net/images/anime/1993/156385.webp"
   },
   "one piece": {
     "anime": "One Piece",
