@@ -50,26 +50,18 @@
   "chibi godzilla no gyakushuu 3rd season": {
     "anime": "Chibi Godzilla no Gyakushuu 3rd Season",
     "season": 3,
-    "episode": 40,
-    "date": "2026-04-01",
+    "episode": 41,
+    "date": "2026-04-08",
     "releaseTime": "04:35 AM",
     "image": "https://myanimelist.net/images/anime/1859/150334.webp"
   },
   "pochars": {
     "anime": "Pochars",
     "season": 1,
-    "episode": 78,
-    "date": "2026-04-01",
+    "episode": 79,
+    "date": "2026-04-08",
     "releaseTime": "10:55 PM",
     "image": "https://myanimelist.net/images/anime/1155/145243.webp"
-  },
-  "the darwin incident": {
-    "anime": "The Darwin Incident",
-    "season": 1,
-    "episode": 13,
-    "date": "2026-04-01",
-    "releaseTime": "09:30 PM",
-    "image": "https://myanimelist.net/images/anime/1341/152829.webp"
   },
   "metal cardbot w": {
     "anime": "Metal Cardbot W",
@@ -207,6 +199,14 @@
     "releaseTime": "05:30 AM",
     "image": "https://myanimelist.net/images/anime/1533/146981.webp"
   },
+  "the food diary of miss maid": {
+    "anime": "The Food Diary of Miss Maid",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-05",
+    "releaseTime": "07:30 PM",
+    "image": "https://myanimelist.net/images/anime/1175/156007.webp"
+  },
   "little miss maruko": {
     "anime": "Little Miss Maruko",
     "season": 1,
@@ -231,14 +231,6 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1387/154934.webp"
   },
-  "scum of the brave": {
-    "anime": "Scum of the Brave",
-    "season": 1,
-    "episode": 13,
-    "date": "2026-04-05",
-    "releaseTime": "10:25 PM",
-    "image": "https://myanimelist.net/images/anime/1821/154043.webp"
-  },
   "digimon beatbreak": {
     "anime": "Digimon Beatbreak",
     "season": 1,
@@ -246,6 +238,14 @@
     "date": "2026-04-05",
     "releaseTime": "06:30 AM",
     "image": "https://myanimelist.net/images/anime/1776/151242.webp"
+  },
+  "scum of the brave": {
+    "anime": "Scum of the Brave",
+    "season": 1,
+    "episode": 13,
+    "date": "2026-04-05",
+    "releaseTime": "10:25 PM",
+    "image": "https://myanimelist.net/images/anime/1821/154043.webp"
   },
   "agents of the four seasons: dance of spring": {
     "anime": "Agents of the Four Seasons: Dance of Spring",
