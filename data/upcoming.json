@@ -23,6 +23,14 @@
     "releaseTime": "10:00 PM",
     "image": "https://myanimelist.net/images/anime/1489/155658.webp"
   },
+  "ingoku danchi": {
+    "anime": "Ingoku Danchi",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-13",
+    "releaseTime": "10:40 PM",
+    "image": "https://myanimelist.net/images/anime/1373/155741.webp"
+  },
   "marika's love meter malfunction": {
     "anime": "Marika's Love Meter Malfunction",
     "season": 1,
@@ -351,14 +359,6 @@
     "releaseTime": "09:00 PM",
     "image": "https://myanimelist.net/images/anime/1162/155669.webp"
   },
-  "ascendance of a bookworm: adopted daughter of an archduke": {
-    "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-11",
-    "releaseTime": "03:00 PM",
-    "image": "https://myanimelist.net/images/anime/1371/155054.webp"
-  },
   "welcome to demon school! iruma-kun season 4": {
     "anime": "Welcome to Demon School! Iruma-kun Season 4",
     "season": 4,
@@ -366,6 +366,14 @@
     "date": "2026-04-11",
     "releaseTime": "03:45 PM",
     "image": "https://myanimelist.net/images/anime/1434/154048.webp"
+  },
+  "ascendance of a bookworm: adopted daughter of an archduke": {
+    "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-11",
+    "releaseTime": "03:00 PM",
+    "image": "https://myanimelist.net/images/anime/1371/155054.webp"
   },
   "daemons of the shadow realm": {
     "anime": "Daemons of the Shadow Realm",
@@ -487,14 +495,6 @@
     "releaseTime": "10:25 PM",
     "image": "https://myanimelist.net/images/anime/1821/154043.webp"
   },
-  "mistress kanan is devilishly easy": {
-    "anime": "Mistress Kanan is Devilishly Easy",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-12",
-    "releaseTime": "10:30 PM",
-    "image": "https://myanimelist.net/images/anime/1681/154996.webp"
-  },
   "needy girl overdose": {
     "anime": "Needy Girl Overdose",
     "season": 1,
@@ -502,6 +502,14 @@
     "date": "2026-04-12",
     "releaseTime": "10:00 PM",
     "image": "https://myanimelist.net/images/anime/1755/154935.webp"
+  },
+  "mistress kanan is devilishly easy": {
+    "anime": "Mistress Kanan is Devilishly Easy",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-12",
+    "releaseTime": "10:30 PM",
+    "image": "https://myanimelist.net/images/anime/1681/154996.webp"
   },
   "agents of the four seasons: dance of spring": {
     "anime": "Agents of the Four Seasons: Dance of Spring",
