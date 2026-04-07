@@ -15,14 +15,6 @@
     "releaseTime": "03:55 PM",
     "image": "https://myanimelist.net/images/anime/1460/149962.webp"
   },
-  "ingoku danchi": {
-    "anime": "Ingoku Danchi",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-13",
-    "releaseTime": "10:40 PM",
-    "image": "https://myanimelist.net/images/anime/1373/155741.webp"
-  },
   "ghost concert: missing songs": {
     "anime": "Ghost Concert: Missing Songs",
     "season": 1,
@@ -30,6 +22,14 @@
     "date": "2026-04-13",
     "releaseTime": "10:00 PM",
     "image": "https://myanimelist.net/images/anime/1489/155658.webp"
+  },
+  "ingoku danchi": {
+    "anime": "Ingoku Danchi",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-13",
+    "releaseTime": "10:40 PM",
+    "image": "https://myanimelist.net/images/anime/1373/155741.webp"
   },
   "marika's love meter malfunction": {
     "anime": "Marika's Love Meter Malfunction",
@@ -63,6 +63,14 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1666/150983.webp"
   },
+  "farming life in another world season 2": {
+    "anime": "Farming Life in Another World Season 2",
+    "season": 2,
+    "episode": 2,
+    "date": "2026-04-13",
+    "releaseTime": "08:00 PM",
+    "image": "https://myanimelist.net/images/anime/1656/156369.webp"
+  },
   "witch hat atelier": {
     "anime": "Witch Hat Atelier",
     "season": 1,
@@ -94,6 +102,14 @@
     "date": "2026-04-14",
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1623/156387.webp"
+  },
+  "liar game": {
+    "anime": "Liar Game",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-14",
+    "releaseTime": "09:30 PM",
+    "image": "https://myanimelist.net/images/anime/1607/156078.webp"
   },
   "chibi godzilla no gyakushuu 3rd season": {
     "anime": "Chibi Godzilla no Gyakushuu 3rd Season",
@@ -215,14 +231,6 @@
     "releaseTime": "09:56 PM",
     "image": "https://myanimelist.net/images/anime/1066/155831.webp"
   },
-  "snowball earth": {
-    "anime": "Snowball Earth",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-10",
-    "releaseTime": "09:00 PM",
-    "image": "https://myanimelist.net/images/anime/1786/156390.webp"
-  },
   "mamonogurai no boukensha: ore dake mamono wo kuratte tsuyoku naru": {
     "anime": "Mamonogurai no Boukensha: Ore dake Mamono wo Kuratte Tsuyoku Naru",
     "season": 1,
@@ -230,6 +238,14 @@
     "date": "2026-04-10",
     "releaseTime": "10:30 PM",
     "image": "https://myanimelist.net/images/anime/1056/154990.webp"
+  },
+  "snowball earth": {
+    "anime": "Snowball Earth",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-10",
+    "releaseTime": "09:00 PM",
+    "image": "https://myanimelist.net/images/anime/1786/156390.webp"
   },
   "killed again, mr. detective.": {
     "anime": "Killed Again, Mr. Detective.",
@@ -375,14 +391,6 @@
     "releaseTime": "09:00 PM",
     "image": "https://myanimelist.net/images/anime/1162/155669.webp"
   },
-  "ascendance of a bookworm: adopted daughter of an archduke": {
-    "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-11",
-    "releaseTime": "03:00 PM",
-    "image": "https://myanimelist.net/images/anime/1371/155054.webp"
-  },
   "welcome to demon school! iruma-kun season 4": {
     "anime": "Welcome to Demon School! Iruma-kun Season 4",
     "season": 4,
@@ -390,6 +398,14 @@
     "date": "2026-04-11",
     "releaseTime": "03:45 PM",
     "image": "https://myanimelist.net/images/anime/1434/154048.webp"
+  },
+  "ascendance of a bookworm: adopted daughter of an archduke": {
+    "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-11",
+    "releaseTime": "03:00 PM",
+    "image": "https://myanimelist.net/images/anime/1371/155054.webp"
   },
   "daemons of the shadow realm": {
     "anime": "Daemons of the Shadow Realm",
