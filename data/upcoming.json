@@ -127,14 +127,6 @@
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1916/155657.webp"
   },
-  "liar game": {
-    "anime": "Liar Game",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-14",
-    "releaseTime": "09:30 PM",
-    "image": "https://myanimelist.net/images/anime/1607/156078.webp"
-  },
   "marriagetoxin": {
     "anime": "Marriagetoxin",
     "season": 1,
@@ -142,6 +134,14 @@
     "date": "2026-04-14",
     "releaseTime": "08:30 PM",
     "image": "https://myanimelist.net/images/anime/1927/154309.webp"
+  },
+  "liar game": {
+    "anime": "Liar Game",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-14",
+    "releaseTime": "09:30 PM",
+    "image": "https://myanimelist.net/images/anime/1607/156078.webp"
   },
   "i made friends with the second prettiest girl in my class": {
     "anime": "I Made Friends with the Second Prettiest Girl in My Class",
@@ -175,14 +175,6 @@
     "releaseTime": "07:25 PM",
     "image": "https://myanimelist.net/images/anime/1764/155312.webp"
   },
-  "pardon the intrusion, i'm home!": {
-    "anime": "Pardon the Intrusion, I'm Home!",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-15",
-    "releaseTime": "10:59 PM",
-    "image": "https://myanimelist.net/images/anime/1199/156106.webp"
-  },
   "my ribdiculous reincarnation": {
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
@@ -190,6 +182,14 @@
     "date": "2026-04-15",
     "releaseTime": "11:29 PM",
     "image": "https://myanimelist.net/images/anime/1871/156005.webp"
+  },
+  "pardon the intrusion, i'm home!": {
+    "anime": "Pardon the Intrusion, I'm Home!",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-15",
+    "releaseTime": "10:59 PM",
+    "image": "https://myanimelist.net/images/anime/1199/156106.webp"
   },
   "eren the southpaw": {
     "anime": "Eren the Southpaw",
@@ -262,6 +262,14 @@
     "date": "2026-04-16",
     "releaseTime": "10:00 PM",
     "image": "https://myanimelist.net/images/anime/1201/155682.webp"
+  },
+  "the warrior princess and the barbaric king": {
+    "anime": "The Warrior Princess and the Barbaric King",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-16",
+    "releaseTime": "07:00 PM",
+    "image": "https://myanimelist.net/images/anime/1229/155022.webp"
   },
   "the ramparts of ice": {
     "anime": "The Ramparts of Ice",
@@ -583,14 +591,6 @@
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1175/156007.webp"
   },
-  "ace of diamond act ii season 2": {
-    "anime": "Ace of Diamond Act II Season 2",
-    "season": 2,
-    "episode": 2,
-    "date": "2026-04-12",
-    "releaseTime": "03:00 PM",
-    "image": "https://myanimelist.net/images/anime/1594/154245.webp"
-  },
   "kusunoki's garden of gods": {
     "anime": "Kusunoki's Garden of Gods",
     "season": 1,
@@ -598,6 +598,14 @@
     "date": "2026-04-12",
     "releaseTime": "11:00 PM",
     "image": "https://myanimelist.net/images/anime/1974/156105.webp"
+  },
+  "ace of diamond act ii season 2": {
+    "anime": "Ace of Diamond Act II Season 2",
+    "season": 2,
+    "episode": 2,
+    "date": "2026-04-12",
+    "releaseTime": "03:00 PM",
+    "image": "https://myanimelist.net/images/anime/1594/154245.webp"
   },
   "digimon beatbreak": {
     "anime": "Digimon Beatbreak",
