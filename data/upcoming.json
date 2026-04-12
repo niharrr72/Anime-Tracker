@@ -111,14 +111,6 @@
     "releaseTime": "09:00 PM",
     "image": "https://myanimelist.net/images/anime/1148/155671.webp"
   },
-  "nippon sangoku: the three nations of the crimson sun": {
-    "anime": "Nippon Sangoku: The Three Nations of the Crimson Sun",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-14",
-    "releaseTime": "09:30 PM",
-    "image": "https://myanimelist.net/images/anime/1623/156387.webp"
-  },
   "the most heretical last boss queen: from villainess to savior season 2": {
     "anime": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
     "season": 2,
@@ -126,6 +118,14 @@
     "date": "2026-04-14",
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1916/155657.webp"
+  },
+  "nippon sangoku: the three nations of the crimson sun": {
+    "anime": "Nippon Sangoku: The Three Nations of the Crimson Sun",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-14",
+    "releaseTime": "09:30 PM",
+    "image": "https://myanimelist.net/images/anime/1623/156387.webp"
   },
   "liar game": {
     "anime": "Liar Game",
@@ -189,7 +189,7 @@
     "episode": 2,
     "date": "2026-04-15",
     "releaseTime": "11:29 PM",
-    "image": "https://myanimelist.net/images/anime/1871/156005.webp"
+    "image": "https://myanimelist.net/images/anime/1228/156696.webp"
   },
   "eren the southpaw": {
     "anime": "Eren the Southpaw",
@@ -263,8 +263,8 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1871/155068.webp"
   },
-  "go for it, nakamura!": {
-    "anime": "Go For It, Nakamura!",
+  "go for it, nakamura-kun!!": {
+    "anime": "Go For It, Nakamura-kun!!",
     "season": 1,
     "episode": 3,
     "date": "2026-04-16",
@@ -303,14 +303,6 @@
     "releaseTime": "11:20 PM",
     "image": "https://myanimelist.net/images/anime/1392/156024.webp"
   },
-  "the drops of god": {
-    "anime": "The Drops of God",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-17",
-    "releaseTime": "09:00 PM",
-    "image": "https://myanimelist.net/images/anime/1045/155698.webp"
-  },
   "sore ike! anpanman": {
     "anime": "Sore Ike! Anpanman",
     "season": 1,
@@ -318,6 +310,14 @@
     "date": "2026-04-17",
     "releaseTime": "01:50 PM",
     "image": "https://myanimelist.net/images/anime/1902/111797.webp"
+  },
+  "the drops of god": {
+    "anime": "The Drops of God",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-17",
+    "releaseTime": "09:00 PM",
+    "image": "https://myanimelist.net/images/anime/1045/155698.webp"
   },
   "beyblade x": {
     "anime": "Beyblade X",
@@ -495,6 +495,14 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1026/155965.webp"
   },
+  "yowayowa teacher": {
+    "anime": "Yowayowa Teacher",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-18",
+    "releaseTime": "07:00 PM",
+    "image": "https://myanimelist.net/images/anime/1364/155774.webp"
+  },
   "mao": {
     "anime": "Mao",
     "season": 1,
@@ -559,139 +567,147 @@
     "releaseTime": "03:30 PM",
     "image": "https://myanimelist.net/images/anime/7/75199.webp"
   },
+  "kumarba season 3": {
+    "anime": "Kumarba Season 3",
+    "season": 3,
+    "episode": 2,
+    "date": "2026-04-19",
+    "releaseTime": "04:30 AM",
+    "image": "https://myanimelist.net/images/anime/1148/155162.webp"
+  },
   "tomica & tom (tv)": {
     "anime": "Tomica & Tom (TV)",
     "season": 1,
-    "episode": 39,
-    "date": "2026-04-12",
+    "episode": 40,
+    "date": "2026-04-19",
     "releaseTime": "06:00 AM",
     "image": "https://myanimelist.net/images/anime/1521/151096.webp"
   },
   "onegai aipri": {
     "anime": "Onegai AiPri",
     "season": 1,
-    "episode": 2,
-    "date": "2026-04-12",
+    "episode": 3,
+    "date": "2026-04-19",
     "releaseTime": "07:00 AM",
     "image": "https://myanimelist.net/images/anime/1705/155680.webp"
   },
   "manul no yuube": {
     "anime": "Manul no Yuube",
     "season": 1,
-    "episode": 388,
-    "date": "2026-04-12",
+    "episode": 389,
+    "date": "2026-04-19",
     "releaseTime": "12:00 AM",
     "image": "https://myanimelist.net/images/anime/1980/96936.webp"
   },
   "mahou no shimai lulutto lilly": {
     "anime": "Mahou no Shimai Lulutto Lilly",
     "season": 1,
-    "episode": 2,
-    "date": "2026-04-12",
+    "episode": 3,
+    "date": "2026-04-19",
     "releaseTime": "08:00 PM",
     "image": "https://myanimelist.net/images/anime/1099/155721.webp"
   },
   "star detective precure!": {
     "anime": "Star Detective Precure!",
     "season": 1,
-    "episode": 11,
-    "date": "2026-04-12",
+    "episode": 12,
+    "date": "2026-04-19",
     "releaseTime": "06:00 AM",
     "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   "koupen-chan": {
     "anime": "Koupen-chan",
     "season": 1,
-    "episode": 54,
-    "date": "2026-04-12",
+    "episode": 55,
+    "date": "2026-04-19",
     "releaseTime": "05:30 AM",
     "image": "https://myanimelist.net/images/anime/1533/146981.webp"
   },
   "little miss maruko": {
     "anime": "Little Miss Maruko",
     "season": 1,
-    "episode": 1632,
-    "date": "2026-04-12",
+    "episode": 1633,
+    "date": "2026-04-19",
     "releaseTime": "03:30 PM",
     "image": "https://myanimelist.net/images/anime/1678/153148.webp"
   },
   "mrs. sazae": {
     "anime": "Mrs. Sazae",
     "season": 1,
-    "episode": 2950,
-    "date": "2026-04-12",
+    "episode": 2951,
+    "date": "2026-04-19",
     "releaseTime": "04:00 PM",
     "image": "https://myanimelist.net/images/anime/1008/98996.webp"
   },
   "the food diary of miss maid": {
     "anime": "The Food Diary of Miss Maid",
     "season": 1,
-    "episode": 2,
-    "date": "2026-04-12",
+    "episode": 3,
+    "date": "2026-04-19",
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1175/156007.webp"
   },
   "ace of diamond act ii season 2": {
     "anime": "Ace of Diamond Act II Season 2",
     "season": 2,
-    "episode": 2,
-    "date": "2026-04-12",
+    "episode": 3,
+    "date": "2026-04-19",
     "releaseTime": "03:00 PM",
     "image": "https://myanimelist.net/images/anime/1594/154245.webp"
   },
   "kusunoki's garden of gods": {
     "anime": "Kusunoki's Garden of Gods",
     "season": 1,
-    "episode": 2,
-    "date": "2026-04-12",
+    "episode": 3,
+    "date": "2026-04-19",
     "releaseTime": "11:00 PM",
     "image": "https://myanimelist.net/images/anime/1974/156105.webp"
   },
   "digimon beatbreak": {
     "anime": "Digimon Beatbreak",
     "season": 1,
-    "episode": 28,
-    "date": "2026-04-12",
+    "episode": 29,
+    "date": "2026-04-19",
     "releaseTime": "06:30 AM",
     "image": "https://myanimelist.net/images/anime/1776/151242.webp"
   },
   "scum of the brave": {
     "anime": "Scum of the Brave",
     "season": 1,
-    "episode": 14,
-    "date": "2026-04-12",
+    "episode": 15,
+    "date": "2026-04-19",
     "releaseTime": "10:25 PM",
     "image": "https://myanimelist.net/images/anime/1821/154043.webp"
   },
   "needy girl overdose": {
     "anime": "Needy Girl Overdose",
     "season": 1,
-    "episode": 2,
-    "date": "2026-04-12",
+    "episode": 3,
+    "date": "2026-04-19",
     "releaseTime": "10:00 PM",
     "image": "https://myanimelist.net/images/anime/1755/154935.webp"
   },
   "mistress kanan is devilishly easy": {
     "anime": "Mistress Kanan is Devilishly Easy",
     "season": 1,
-    "episode": 2,
-    "date": "2026-04-12",
+    "episode": 3,
+    "date": "2026-04-19",
     "releaseTime": "10:30 PM",
     "image": "https://myanimelist.net/images/anime/1681/154996.webp"
   },
   "agents of the four seasons: dance of spring": {
     "anime": "Agents of the Four Seasons: Dance of Spring",
     "season": 1,
-    "episode": 3,
-    "date": "2026-04-12",
+    "episode": 4,
+    "date": "2026-04-19",
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1993/156385.webp"
   },
   "one piece": {
     "anime": "One Piece",
     "season": 1,
-    "episode": 1383,
-    "date": "2026-04-12",
+    "episode": 1384,
+    "date": "2026-04-19",
     "releaseTime": "08:45 PM",
     "image": "https://myanimelist.net/images/anime/1244/138851.webp"
   }
