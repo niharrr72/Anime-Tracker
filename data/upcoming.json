@@ -271,14 +271,6 @@
     "releaseTime": "10:00 PM",
     "image": "https://myanimelist.net/images/anime/1201/155682.webp"
   },
-  "the warrior princess and the barbaric king": {
-    "anime": "The Warrior Princess and the Barbaric King",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-16",
-    "releaseTime": "07:00 PM",
-    "image": "https://myanimelist.net/images/anime/1229/155022.webp"
-  },
   "the ramparts of ice": {
     "anime": "The Ramparts of Ice",
     "season": 1,
@@ -286,6 +278,14 @@
     "date": "2026-04-16",
     "releaseTime": "09:26 PM",
     "image": "https://myanimelist.net/images/anime/1565/154933.webp"
+  },
+  "the warrior princess and the barbaric king": {
+    "anime": "The Warrior Princess and the Barbaric King",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-16",
+    "releaseTime": "07:00 PM",
+    "image": "https://myanimelist.net/images/anime/1229/155022.webp"
   },
   "dr. stone: science future part 3": {
     "anime": "Dr. Stone: Science Future Part 3",
@@ -503,14 +503,6 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1026/155965.webp"
   },
-  "mao": {
-    "anime": "Mao",
-    "season": 1,
-    "episode": 3,
-    "date": "2026-04-18",
-    "releaseTime": "09:15 PM",
-    "image": "https://myanimelist.net/images/anime/1738/156386.webp"
-  },
   "yowayowa teacher": {
     "anime": "Yowayowa Teacher",
     "season": 1,
@@ -518,6 +510,14 @@
     "date": "2026-04-18",
     "releaseTime": "07:00 PM",
     "image": "https://myanimelist.net/images/anime/1364/155774.webp"
+  },
+  "mao": {
+    "anime": "Mao",
+    "season": 1,
+    "episode": 3,
+    "date": "2026-04-18",
+    "releaseTime": "09:15 PM",
+    "image": "https://myanimelist.net/images/anime/1738/156386.webp"
   },
   "the strongest job is apparently not a hero or a sage, but an appraiser (provisional)!": {
     "anime": "The Strongest Job is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
@@ -678,6 +678,14 @@
     "date": "2026-04-19",
     "releaseTime": "03:00 PM",
     "image": "https://myanimelist.net/images/anime/1594/154245.webp"
+  },
+  "the classroom of a black cat and a witch": {
+    "anime": "The Classroom of a Black Cat and a Witch",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-19",
+    "releaseTime": "09:00 PM",
+    "image": "https://myanimelist.net/images/anime/1716/153989.webp"
   },
   "kusunoki's garden of gods": {
     "anime": "Kusunoki's Garden of Gods",
