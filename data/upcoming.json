@@ -540,7 +540,7 @@
     "season": 4,
     "episode": 3,
     "date": "2026-04-18",
-    "releaseTime": "03:45 PM",
+    "releaseTime": "03:55 PM",
     "image": "https://myanimelist.net/images/anime/1434/154048.webp"
   },
   "ascendance of a bookworm: adopted daughter of an archduke": {
@@ -607,14 +607,6 @@
     "releaseTime": "12:00 AM",
     "image": "https://myanimelist.net/images/anime/1980/96936.webp"
   },
-  "star detective precure!": {
-    "anime": "Star Detective Precure!",
-    "season": 1,
-    "episode": 12,
-    "date": "2026-04-19",
-    "releaseTime": "06:00 AM",
-    "image": "https://myanimelist.net/images/anime/1706/154944.webp"
-  },
   "mahou no shimai lulutto lilly": {
     "anime": "Mahou no Shimai Lulutto Lilly",
     "season": 1,
@@ -622,6 +614,14 @@
     "date": "2026-04-19",
     "releaseTime": "08:00 PM",
     "image": "https://myanimelist.net/images/anime/1099/155721.webp"
+  },
+  "star detective precure!": {
+    "anime": "Star Detective Precure!",
+    "season": 1,
+    "episode": 12,
+    "date": "2026-04-19",
+    "releaseTime": "06:00 AM",
+    "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   "koupen-chan": {
     "anime": "Koupen-chan",
@@ -671,14 +671,6 @@
     "releaseTime": "03:00 PM",
     "image": "https://myanimelist.net/images/anime/1594/154245.webp"
   },
-  "the classroom of a black cat and a witch": {
-    "anime": "The Classroom of a Black Cat and a Witch",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-19",
-    "releaseTime": "09:00 PM",
-    "image": "https://myanimelist.net/images/anime/1716/153989.webp"
-  },
   "kusunoki's garden of gods": {
     "anime": "Kusunoki's Garden of Gods",
     "season": 1,
@@ -686,6 +678,14 @@
     "date": "2026-04-19",
     "releaseTime": "11:00 PM",
     "image": "https://myanimelist.net/images/anime/1974/156105.webp"
+  },
+  "the classroom of a black cat and a witch": {
+    "anime": "The Classroom of a Black Cat and a Witch",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-19",
+    "releaseTime": "09:00 PM",
+    "image": "https://myanimelist.net/images/anime/1716/153989.webp"
   },
   "digimon beatbreak": {
     "anime": "Digimon Beatbreak",
