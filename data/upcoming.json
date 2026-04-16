@@ -127,6 +127,14 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1623/156387.webp"
   },
+  "i want to end this love game": {
+    "anime": "I Want to End this Love Game",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-21",
+    "releaseTime": "08:30 PM",
+    "image": "https://myanimelist.net/images/anime/1879/155958.webp"
+  },
   "liar game": {
     "anime": "Liar Game",
     "season": 1,
@@ -135,14 +143,6 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1607/156078.webp"
   },
-  "i made friends with the second prettiest girl in my class": {
-    "anime": "I Made Friends with the Second Prettiest Girl in My Class",
-    "season": 1,
-    "episode": 3,
-    "date": "2026-04-21",
-    "releaseTime": "09:00 PM",
-    "image": "https://myanimelist.net/images/anime/1423/155713.webp"
-  },
   "marriagetoxin": {
     "anime": "Marriagetoxin",
     "season": 1,
@@ -150,6 +150,14 @@
     "date": "2026-04-21",
     "releaseTime": "08:30 PM",
     "image": "https://myanimelist.net/images/anime/1927/154309.webp"
+  },
+  "i made friends with the second prettiest girl in my class": {
+    "anime": "I Made Friends with the Second Prettiest Girl in My Class",
+    "season": 1,
+    "episode": 3,
+    "date": "2026-04-21",
+    "releaseTime": "09:00 PM",
+    "image": "https://myanimelist.net/images/anime/1423/155713.webp"
   },
   "chibi godzilla no gyakushuu 3rd season": {
     "anime": "Chibi Godzilla no Gyakushuu 3rd Season",
@@ -234,56 +242,64 @@
   "metal cardbot w": {
     "anime": "Metal Cardbot W",
     "season": 1,
-    "episode": 20,
-    "date": "2026-04-16",
+    "episode": 21,
+    "date": "2026-04-23",
     "releaseTime": "05:15 AM",
     "image": "https://myanimelist.net/images/anime/1332/154527.webp"
+  },
+  "candy caries": {
+    "anime": "Candy Caries",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-23",
+    "releaseTime": "10:25 PM",
+    "image": "https://myanimelist.net/images/anime/1780/154909.webp"
   },
   "kujima: why sing, when you can warble?": {
     "anime": "Kujima: Why Sing, When You Can Warble?",
     "season": 1,
-    "episode": 2,
-    "date": "2026-04-16",
+    "episode": 3,
+    "date": "2026-04-23",
     "releaseTime": "08:00 PM",
     "image": "https://myanimelist.net/images/anime/1352/155195.webp"
   },
   "always a catch!": {
     "anime": "Always a Catch!",
     "season": 1,
-    "episode": 3,
-    "date": "2026-04-16",
+    "episode": 4,
+    "date": "2026-04-23",
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1871/155068.webp"
   },
   "go for it, nakamura-kun!!": {
     "anime": "Go For It, Nakamura-kun!!",
     "season": 1,
-    "episode": 3,
-    "date": "2026-04-16",
+    "episode": 4,
+    "date": "2026-04-23",
     "releaseTime": "10:00 PM",
     "image": "https://myanimelist.net/images/anime/1201/155682.webp"
-  },
-  "the warrior princess and the barbaric king": {
-    "anime": "The Warrior Princess and the Barbaric King",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-16",
-    "releaseTime": "07:00 PM",
-    "image": "https://myanimelist.net/images/anime/1229/155022.webp"
   },
   "the ramparts of ice": {
     "anime": "The Ramparts of Ice",
     "season": 1,
-    "episode": 3,
-    "date": "2026-04-16",
+    "episode": 4,
+    "date": "2026-04-23",
     "releaseTime": "09:26 PM",
     "image": "https://myanimelist.net/images/anime/1565/154933.webp"
+  },
+  "the warrior princess and the barbaric king": {
+    "anime": "The Warrior Princess and the Barbaric King",
+    "season": 1,
+    "episode": 3,
+    "date": "2026-04-23",
+    "releaseTime": "07:00 PM",
+    "image": "https://myanimelist.net/images/anime/1229/155022.webp"
   },
   "dr. stone: science future part 3": {
     "anime": "Dr. Stone: Science Future Part 3",
     "season": 3,
-    "episode": 3,
-    "date": "2026-04-16",
+    "episode": 4,
+    "date": "2026-04-23",
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1773/155779.webp"
   },
@@ -487,14 +503,6 @@
     "releaseTime": "08:30 PM",
     "image": "https://myanimelist.net/images/anime/1899/156600.webp"
   },
-  "botan kamiina fully blossoms when drunk": {
-    "anime": "Botan Kamiina Fully Blossoms When Drunk",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-18",
-    "releaseTime": "09:30 PM",
-    "image": "https://myanimelist.net/images/anime/1026/155965.webp"
-  },
   "mao": {
     "anime": "Mao",
     "season": 1,
@@ -502,6 +510,14 @@
     "date": "2026-04-18",
     "releaseTime": "09:15 PM",
     "image": "https://myanimelist.net/images/anime/1738/156386.webp"
+  },
+  "botan kamiina fully blossoms when drunk": {
+    "anime": "Botan Kamiina Fully Blossoms When Drunk",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-18",
+    "releaseTime": "09:30 PM",
+    "image": "https://myanimelist.net/images/anime/1026/155965.webp"
   },
   "yowayowa teacher": {
     "anime": "Yowayowa Teacher",
@@ -607,14 +623,6 @@
     "releaseTime": "12:00 AM",
     "image": "https://myanimelist.net/images/anime/1980/96936.webp"
   },
-  "star detective precure!": {
-    "anime": "Star Detective Precure!",
-    "season": 1,
-    "episode": 12,
-    "date": "2026-04-19",
-    "releaseTime": "06:00 AM",
-    "image": "https://myanimelist.net/images/anime/1706/154944.webp"
-  },
   "mahou no shimai lulutto lilly": {
     "anime": "Mahou no Shimai Lulutto Lilly",
     "season": 1,
@@ -622,6 +630,14 @@
     "date": "2026-04-19",
     "releaseTime": "08:00 PM",
     "image": "https://myanimelist.net/images/anime/1099/155721.webp"
+  },
+  "star detective precure!": {
+    "anime": "Star Detective Precure!",
+    "season": 1,
+    "episode": 12,
+    "date": "2026-04-19",
+    "releaseTime": "06:00 AM",
+    "image": "https://myanimelist.net/images/anime/1706/154944.webp"
   },
   "koupen-chan": {
     "anime": "Koupen-chan",
@@ -671,14 +687,6 @@
     "releaseTime": "03:00 PM",
     "image": "https://myanimelist.net/images/anime/1594/154245.webp"
   },
-  "the classroom of a black cat and a witch": {
-    "anime": "The Classroom of a Black Cat and a Witch",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-04-19",
-    "releaseTime": "09:00 PM",
-    "image": "https://myanimelist.net/images/anime/1716/153989.webp"
-  },
   "kusunoki's garden of gods": {
     "anime": "Kusunoki's Garden of Gods",
     "season": 1,
@@ -686,6 +694,14 @@
     "date": "2026-04-19",
     "releaseTime": "11:00 PM",
     "image": "https://myanimelist.net/images/anime/1974/156105.webp"
+  },
+  "the classroom of a black cat and a witch": {
+    "anime": "The Classroom of a Black Cat and a Witch",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-04-19",
+    "releaseTime": "09:00 PM",
+    "image": "https://myanimelist.net/images/anime/1716/153989.webp"
   },
   "digimon beatbreak": {
     "anime": "Digimon Beatbreak",
