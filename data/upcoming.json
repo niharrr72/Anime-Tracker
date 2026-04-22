@@ -503,14 +503,6 @@
     "releaseTime": "09:15 PM",
     "image": "https://myanimelist.net/images/anime/1738/156386.webp"
   },
-  "kill blue": {
-    "anime": "Kill Blue",
-    "season": 1,
-    "episode": 3,
-    "date": "2026-04-25",
-    "releaseTime": "08:30 PM",
-    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
-  },
   "botan kamiina fully blossoms when drunk": {
     "anime": "Botan Kamiina Fully Blossoms When Drunk",
     "season": 1,
@@ -518,6 +510,14 @@
     "date": "2026-04-25",
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1026/155965.webp"
+  },
+  "kill blue": {
+    "anime": "Kill Blue",
+    "season": 1,
+    "episode": 3,
+    "date": "2026-04-25",
+    "releaseTime": "08:30 PM",
+    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
   },
   "yowayowa sensei": {
     "anime": "Yowayowa Sensei",
