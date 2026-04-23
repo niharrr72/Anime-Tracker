@@ -511,14 +511,6 @@
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1026/155965.webp"
   },
-  "kill blue": {
-    "anime": "Kill Blue",
-    "season": 1,
-    "episode": 3,
-    "date": "2026-04-25",
-    "releaseTime": "08:30 PM",
-    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
-  },
   "yowayowa sensei": {
     "anime": "Yowayowa Sensei",
     "season": 1,
@@ -526,6 +518,14 @@
     "date": "2026-04-25",
     "releaseTime": "07:00 PM",
     "image": "https://myanimelist.net/images/anime/1364/155774.webp"
+  },
+  "kill blue": {
+    "anime": "Kill Blue",
+    "season": 1,
+    "episode": 3,
+    "date": "2026-04-25",
+    "releaseTime": "08:30 PM",
+    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
   },
   "the strongest job is apparently not a hero or a sage, but an appraiser (provisional)!": {
     "anime": "The Strongest Job Is Apparently Not a Hero or a Sage, but an Appraiser (Provisional)!",
