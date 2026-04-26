@@ -39,14 +39,6 @@
     "releaseTime": "10:30 PM",
     "image": "https://myanimelist.net/images/anime/1818/155506.webp"
   },
-  "rooster fighter": {
-    "anime": "Rooster Fighter",
-    "season": 1,
-    "episode": 4,
-    "date": "2026-04-27",
-    "releaseTime": "09:30 PM",
-    "image": "https://myanimelist.net/images/anime/1666/150983.webp"
-  },
   "the klutzy class monitor and the girl with the short skirt": {
     "anime": "The Klutzy Class Monitor and the Girl with the Short Skirt",
     "season": 1,
@@ -54,6 +46,14 @@
     "date": "2026-04-27",
     "releaseTime": "08:54 PM",
     "image": "https://myanimelist.net/images/anime/1484/155726.webp"
+  },
+  "rooster fighter": {
+    "anime": "Rooster Fighter",
+    "season": 1,
+    "episode": 4,
+    "date": "2026-04-27",
+    "releaseTime": "09:30 PM",
+    "image": "https://myanimelist.net/images/anime/1666/150983.webp"
   },
   "an observation log of my fiancée who calls herself a villainess": {
     "anime": "An Observation Log of My Fiancée Who Calls Herself a Villainess",
@@ -175,14 +175,6 @@
     "releaseTime": "07:25 PM",
     "image": "https://myanimelist.net/images/anime/1764/155312.webp"
   },
-  "pardon the intrusion, i'm home!": {
-    "anime": "Pardon the Intrusion, I'm Home!",
-    "season": 1,
-    "episode": 4,
-    "date": "2026-04-29",
-    "releaseTime": "10:59 PM",
-    "image": "https://myanimelist.net/images/anime/1199/156106.webp"
-  },
   "eren the southpaw": {
     "anime": "Eren the Southpaw",
     "season": 1,
@@ -190,6 +182,14 @@
     "date": "2026-04-29",
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1015/156388.webp"
+  },
+  "pardon the intrusion, i'm home!": {
+    "anime": "Pardon the Intrusion, I'm Home!",
+    "season": 1,
+    "episode": 4,
+    "date": "2026-04-29",
+    "releaseTime": "10:59 PM",
+    "image": "https://myanimelist.net/images/anime/1199/156106.webp"
   },
   "my ribdiculous reincarnation": {
     "anime": "My Ribdiculous Reincarnation",
