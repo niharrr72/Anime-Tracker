@@ -319,14 +319,6 @@
     "releaseTime": "01:50 PM",
     "image": "https://myanimelist.net/images/anime/1902/111797.webp"
   },
-  "the drops of god": {
-    "anime": "The Drops of God",
-    "season": 1,
-    "episode": 5,
-    "date": "2026-05-08",
-    "releaseTime": "09:00 PM",
-    "image": "https://myanimelist.net/images/anime/1045/155698.webp"
-  },
   "beyblade x": {
     "anime": "Beyblade X",
     "season": 1,
@@ -334,6 +326,14 @@
     "date": "2026-05-08",
     "releaseTime": "03:55 PM",
     "image": "https://myanimelist.net/images/anime/1394/145458.webp"
+  },
+  "the drops of god": {
+    "anime": "The Drops of God",
+    "season": 1,
+    "episode": 5,
+    "date": "2026-05-08",
+    "releaseTime": "09:00 PM",
+    "image": "https://myanimelist.net/images/anime/1045/155698.webp"
   },
   "kirio fan club": {
     "anime": "Kirio Fan Club",
