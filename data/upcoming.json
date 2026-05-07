@@ -119,14 +119,6 @@
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1916/155657.webp"
   },
-  "i want to end this love game": {
-    "anime": "I Want to End This Love Game",
-    "season": 1,
-    "episode": 5,
-    "date": "2026-05-12",
-    "releaseTime": "08:30 PM",
-    "image": "https://myanimelist.net/images/anime/1879/155958.webp"
-  },
   "liar game": {
     "anime": "Liar Game",
     "season": 1,
@@ -134,6 +126,14 @@
     "date": "2026-05-12",
     "releaseTime": "09:30 PM",
     "image": "https://myanimelist.net/images/anime/1607/156078.webp"
+  },
+  "i want to end this love game": {
+    "anime": "I Want to End This Love Game",
+    "season": 1,
+    "episode": 5,
+    "date": "2026-05-12",
+    "releaseTime": "08:30 PM",
+    "image": "https://myanimelist.net/images/anime/1879/155958.webp"
   },
   "nippon sangoku: the three nations of the crimson sun": {
     "anime": "Nippon Sangoku: The Three Nations of the Crimson Sun",
@@ -527,14 +527,6 @@
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1632/155095.webp"
   },
-  "kill blue": {
-    "anime": "Kill Blue",
-    "season": 1,
-    "episode": 5,
-    "date": "2026-05-09",
-    "releaseTime": "08:30 PM",
-    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
-  },
   "rent-a-girlfriend season 5": {
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
@@ -542,6 +534,14 @@
     "date": "2026-05-09",
     "releaseTime": "11:23 PM",
     "image": "https://myanimelist.net/images/anime/1393/156075.webp"
+  },
+  "kill blue": {
+    "anime": "Kill Blue",
+    "season": 1,
+    "episode": 5,
+    "date": "2026-05-09",
+    "releaseTime": "08:30 PM",
+    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
   },
   "akane-banashi": {
     "anime": "Akane-banashi",
