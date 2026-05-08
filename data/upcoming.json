@@ -527,14 +527,6 @@
     "releaseTime": "07:30 PM",
     "image": "https://myanimelist.net/images/anime/1632/155095.webp"
   },
-  "kill blue": {
-    "anime": "Kill Blue",
-    "season": 1,
-    "episode": 5,
-    "date": "2026-05-09",
-    "releaseTime": "08:30 PM",
-    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
-  },
   "rent-a-girlfriend season 5": {
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
@@ -542,6 +534,14 @@
     "date": "2026-05-09",
     "releaseTime": "11:23 PM",
     "image": "https://myanimelist.net/images/anime/1393/156075.webp"
+  },
+  "kill blue": {
+    "anime": "Kill Blue",
+    "season": 1,
+    "episode": 5,
+    "date": "2026-05-09",
+    "releaseTime": "08:30 PM",
+    "image": "https://myanimelist.net/images/anime/1899/156600.webp"
   },
   "akane-banashi": {
     "anime": "Akane-banashi",
