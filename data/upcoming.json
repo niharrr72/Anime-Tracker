@@ -591,14 +591,6 @@
     "releaseTime": "04:30 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1899/155697.webp"
   },
-  "onegai aipri": {
-    "anime": "Onegai AiPri",
-    "season": 1,
-    "episode": 9,
-    "date": "2026-05-31",
-    "releaseTime": "07:00 AM",
-    "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
-  },
   "manul no yuube": {
     "anime": "Manul no Yuube",
     "season": 1,
@@ -606,6 +598,14 @@
     "date": "2026-05-31",
     "releaseTime": "12:00 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1980/96936.webp"
+  },
+  "onegai aipri": {
+    "anime": "Onegai AiPri",
+    "season": 1,
+    "episode": 9,
+    "date": "2026-05-31",
+    "releaseTime": "07:00 AM",
+    "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
   },
   "star detective precure!": {
     "anime": "Star Detective Precure!",
