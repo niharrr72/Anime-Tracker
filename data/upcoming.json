@@ -247,6 +247,14 @@
     "releaseTime": "09:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1045/157132.webp"
   },
+  "behind the supermarket, smoking with you.": {
+    "anime": "Behind the Supermarket, Smoking with You.",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-06-11",
+    "releaseTime": "09:26 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1768/156339.webp"
+  },
   "go for it, nakamura-kun!!": {
     "anime": "Go For It, Nakamura-kun!!",
     "season": 1,
@@ -391,14 +399,6 @@
     "releaseTime": "10:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1064/155042.webp"
   },
-  "shin chan": {
-    "anime": "Shin Chan",
-    "season": 1,
-    "episode": 1783,
-    "date": "2026-06-05",
-    "releaseTime": "05:00 PM",
-    "image": "https://cdn.myanimelist.net/images/anime/10/59897.webp"
-  },
   "the angel next door spoils me rotten 2": {
     "anime": "The Angel Next Door Spoils Me Rotten 2",
     "season": 1,
@@ -542,6 +542,14 @@
     "date": "2026-06-06",
     "releaseTime": "03:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054.webp"
+  },
+  "shin chan": {
+    "anime": "Shin Chan",
+    "season": 1,
+    "episode": 1783,
+    "date": "2026-06-06",
+    "releaseTime": "02:00 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/10/59897.webp"
   },
   "daemons of the shadow realm": {
     "anime": "Daemons of the Shadow Realm",
