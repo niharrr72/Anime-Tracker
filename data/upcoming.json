@@ -111,14 +111,6 @@
     "releaseTime": "08:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1879/155958.webp"
   },
-  "nippon sangoku: the three nations of the crimson sun": {
-    "anime": "Nippon Sangoku: The Three Nations of the Crimson Sun",
-    "season": 1,
-    "episode": 12,
-    "date": "2026-06-23",
-    "releaseTime": "09:30 PM",
-    "image": "https://cdn.myanimelist.net/images/anime/1623/156387.webp"
-  },
   "marriagetoxin": {
     "anime": "Marriagetoxin",
     "season": 1,
@@ -495,14 +487,6 @@
     "releaseTime": "07:00 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
   },
-  "star detective precure!": {
-    "anime": "Star Detective Precure!",
-    "season": 1,
-    "episode": 22,
-    "date": "2026-06-28",
-    "releaseTime": "06:00 AM",
-    "image": "https://cdn.myanimelist.net/images/anime/1706/154944.webp"
-  },
   "koupen-chan": {
     "anime": "Koupen-chan",
     "season": 1,
@@ -510,6 +494,14 @@
     "date": "2026-06-28",
     "releaseTime": "05:30 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1533/146981.webp"
+  },
+  "star detective precure!": {
+    "anime": "Star Detective Precure!",
+    "season": 1,
+    "episode": 22,
+    "date": "2026-06-28",
+    "releaseTime": "06:00 AM",
+    "image": "https://cdn.myanimelist.net/images/anime/1706/154944.webp"
   },
   "little miss maruko": {
     "anime": "Little Miss Maruko",
