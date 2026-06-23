@@ -1,6 +1,6 @@
 [
   {
-    "id": 35,
+    "id": 20,
     "anime": "Fushigi Dagashiya: Zenitendou",
     "season": 1,
     "episode": 303,
@@ -12,11 +12,11 @@
     ],
     "malId": 42295,
     "score": 6.15,
-    "members": 2434,
+    "members": 2436,
     "image": "https://cdn.myanimelist.net/images/anime/1602/150098.webp"
   },
   {
-    "id": 30,
+    "id": 15,
     "anime": "Origami Ninja Koyankinte",
     "season": 1,
     "episode": 325,
@@ -32,7 +32,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1860/106477.webp"
   },
   {
-    "id": 40,
+    "id": 25,
     "anime": "Beyond Twilight",
     "season": 1,
     "episode": 12,
@@ -43,12 +43,12 @@
       "Crunchyroll"
     ],
     "malId": 63469,
-    "score": 5.18,
-    "members": 3576,
+    "score": 5.19,
+    "members": 3580,
     "image": "https://cdn.myanimelist.net/images/anime/1589/156720.webp"
   },
   {
-    "id": 50,
+    "id": 35,
     "anime": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
     "season": 2,
     "episode": 12,
@@ -60,11 +60,11 @@
     ],
     "malId": 61931,
     "score": 7.11,
-    "members": 41590,
+    "members": 41712,
     "image": "https://cdn.myanimelist.net/images/anime/1916/155657.webp"
   },
   {
-    "id": 60,
+    "id": 45,
     "anime": "I Want to End This Love Game",
     "season": 1,
     "episode": 11,
@@ -76,11 +76,11 @@
     ],
     "malId": 61839,
     "score": 7.31,
-    "members": 78716,
+    "members": 79137,
     "image": "https://cdn.myanimelist.net/images/anime/1879/155958.webp"
   },
   {
-    "id": 65,
+    "id": 50,
     "anime": "Marriagetoxin",
     "season": 1,
     "episode": 12,
@@ -92,11 +92,11 @@
     ],
     "malId": 62601,
     "score": 7.52,
-    "members": 122363,
+    "members": 122967,
     "image": "https://cdn.myanimelist.net/images/anime/1927/154309.webp"
   },
   {
-    "id": 45,
+    "id": 30,
     "anime": "Even a Replica Can Fall in Love",
     "season": 1,
     "episode": 12,
@@ -108,11 +108,11 @@
     ],
     "malId": 61013,
     "score": 7,
-    "members": 26187,
+    "members": 26298,
     "image": "https://cdn.myanimelist.net/images/anime/1148/155671.webp"
   },
   {
-    "id": 70,
+    "id": 55,
     "anime": "I Made Friends with the Second Prettiest Girl in My Class",
     "season": 1,
     "episode": 12,
@@ -124,11 +124,11 @@
     ],
     "malId": 56734,
     "score": 7.91,
-    "members": 126426,
+    "members": 127129,
     "image": "https://cdn.myanimelist.net/images/anime/1423/155713.webp"
   },
   {
-    "id": 55,
+    "id": 40,
     "anime": "Liar Game",
     "season": 1,
     "episode": 12,
@@ -140,8 +140,8 @@
     ],
     "malId": 62331,
     "score": 6.33,
-    "members": 67852,
-    "image": "https://cdn.myanimelist.net/images/anime/1607/156078.webp"
+    "members": 68072,
+    "image": "https://cdn.myanimelist.net/images/anime/1984/158634.webp"
   },
   {
     "id": 10,
@@ -156,56 +156,8 @@
     ],
     "malId": 37096,
     "score": 6.1,
-    "members": 2078,
+    "members": 2079,
     "image": "https://cdn.myanimelist.net/images/anime/1460/149962.webp"
-  },
-  {
-    "id": 20,
-    "anime": "Farming Life in Another World Season 2",
-    "season": 2,
-    "episode": 12,
-    "title": "Episode 12",
-    "date": "2026-06-22",
-    "releaseTime": "08:00 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62146,
-    "score": 7.42,
-    "members": 77159,
-    "image": "https://cdn.myanimelist.net/images/anime/1656/156369.webp"
-  },
-  {
-    "id": 25,
-    "anime": "Witch Hat Atelier",
-    "season": 1,
-    "episode": 12,
-    "title": "Romonon no Kage ",
-    "date": "2026-06-22",
-    "releaseTime": "08:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 51553,
-    "score": 8.67,
-    "members": 345756,
-    "image": "https://cdn.myanimelist.net/images/anime/1726/155542.webp"
-  },
-  {
-    "id": 15,
-    "anime": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-    "season": 1,
-    "episode": 12,
-    "title": "Episode 12",
-    "date": "2026-06-22",
-    "releaseTime": "08:54 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 61425,
-    "score": 7.58,
-    "members": 50787,
-    "image": "https://cdn.myanimelist.net/images/anime/1484/155726.webp"
   },
   {
     "id": 5,
@@ -224,7 +176,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1433/134811.webp"
   },
   {
-    "id": 323,
+    "id": 308,
     "anime": "Wistoria: Wand and Sword Season 2",
     "season": 2,
     "episode": 11,
@@ -236,11 +188,11 @@
     ],
     "malId": 59983,
     "score": 8.25,
-    "members": 167712,
+    "members": 168588,
     "image": "https://cdn.myanimelist.net/images/anime/1190/155788.webp"
   },
   {
-    "id": 311,
+    "id": 296,
     "anime": "Mission: Yozakura Family Season 2",
     "season": 2,
     "episode": 11,
@@ -251,12 +203,12 @@
       "Crunchyroll"
     ],
     "malId": 60055,
-    "score": 7.64,
-    "members": 40583,
+    "score": 7.65,
+    "members": 40695,
     "image": "https://cdn.myanimelist.net/images/anime/1230/155783.webp"
   },
   {
-    "id": 295,
+    "id": 280,
     "anime": "Ace of Diamond Act II Season 2",
     "season": 2,
     "episode": 12,
@@ -268,11 +220,11 @@
     ],
     "malId": 58877,
     "score": 8.12,
-    "members": 20161,
+    "members": 20224,
     "image": "https://cdn.myanimelist.net/images/anime/1594/154245.webp"
   },
   {
-    "id": 287,
+    "id": 272,
     "anime": "Little Miss Maruko",
     "season": 1,
     "episode": 1642,
@@ -288,7 +240,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1678/153148.webp"
   },
   {
-    "id": 291,
+    "id": 276,
     "anime": "Mrs. Sazae",
     "season": 1,
     "episode": 2960,
@@ -300,11 +252,11 @@
     ],
     "malId": 2406,
     "score": 6.15,
-    "members": 10464,
+    "members": 10467,
     "image": "https://cdn.myanimelist.net/images/anime/1008/98996.webp"
   },
   {
-    "id": 263,
+    "id": 248,
     "anime": "Kumarba Season 3",
     "season": 3,
     "episode": 11,
@@ -320,7 +272,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1148/155162.webp"
   },
   {
-    "id": 267,
+    "id": 252,
     "anime": "Shou 3 Ashibe QQ Goma-chan",
     "season": 1,
     "episode": 11,
@@ -336,7 +288,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1899/155697.webp"
   },
   {
-    "id": 279,
+    "id": 264,
     "anime": "Koupen-chan",
     "season": 1,
     "episode": 64,
@@ -348,11 +300,11 @@
     ],
     "malId": 60534,
     "score": 7.55,
-    "members": 6891,
+    "members": 6897,
     "image": "https://cdn.myanimelist.net/images/anime/1533/146981.webp"
   },
   {
-    "id": 283,
+    "id": 268,
     "anime": "Star Detective Precure!",
     "season": 1,
     "episode": 21,
@@ -364,11 +316,11 @@
     ],
     "malId": 63042,
     "score": 7.59,
-    "members": 6912,
+    "members": 6932,
     "image": "https://cdn.myanimelist.net/images/anime/1706/154944.webp"
   },
   {
-    "id": 299,
+    "id": 284,
     "anime": "Digimon Beatbreak",
     "season": 1,
     "episode": 38,
@@ -379,12 +331,12 @@
       "Crunchyroll"
     ],
     "malId": 61269,
-    "score": 7.13,
-    "members": 27135,
+    "score": 7.14,
+    "members": 27152,
     "image": "https://cdn.myanimelist.net/images/anime/1776/151242.webp"
   },
   {
-    "id": 275,
+    "id": 260,
     "anime": "Onegai AiPri",
     "season": 1,
     "episode": 12,
@@ -396,11 +348,11 @@
     ],
     "malId": 63352,
     "score": 5.92,
-    "members": 1225,
+    "members": 1226,
     "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
   },
   {
-    "id": 327,
+    "id": 312,
     "anime": "One Piece",
     "season": 1,
     "episode": 1393,
@@ -413,27 +365,27 @@
     ],
     "malId": 21,
     "score": 8.73,
-    "members": 2696599,
+    "members": 2697003,
     "image": "https://cdn.myanimelist.net/images/anime/1244/138851.webp"
   },
   {
-    "id": 307,
+    "id": 292,
     "anime": "The Classroom of a Black Cat and a Witch",
     "season": 1,
     "episode": 11,
-    "title": "Episode 11",
+    "title": "Tarf's Purpose, Chiron's Resolve",
     "date": "2026-06-21",
     "releaseTime": "09:00 PM",
     "streaming": [
       "Crunchyroll"
     ],
     "malId": 62171,
-    "score": 6.53,
-    "members": 32605,
+    "score": 6.52,
+    "members": 32772,
     "image": "https://cdn.myanimelist.net/images/anime/1716/153989.webp"
   },
   {
-    "id": 319,
+    "id": 304,
     "anime": "Agents of the Four Seasons: Dance of Spring",
     "season": 1,
     "episode": 13,
@@ -444,12 +396,12 @@
       "Crunchyroll"
     ],
     "malId": 61443,
-    "score": 7.68,
-    "members": 72327,
+    "score": 7.67,
+    "members": 72660,
     "image": "https://cdn.myanimelist.net/images/anime/1993/156385.webp"
   },
   {
-    "id": 315,
+    "id": 300,
     "anime": "Needy Girl Overdose",
     "season": 1,
     "episode": 12,
@@ -461,11 +413,11 @@
     ],
     "malId": 62913,
     "score": 6.74,
-    "members": 58132,
+    "members": 58301,
     "image": "https://cdn.myanimelist.net/images/anime/1755/154935.webp"
   },
   {
-    "id": 303,
+    "id": 288,
     "anime": "Scum of the Brave",
     "season": 1,
     "episode": 24,
@@ -477,11 +429,11 @@
     ],
     "malId": 61217,
     "score": 6.51,
-    "members": 31442,
+    "members": 31504,
     "image": "https://cdn.myanimelist.net/images/anime/1821/154043.webp"
   },
   {
-    "id": 271,
+    "id": 256,
     "anime": "Manul no Yuube",
     "season": 1,
     "episode": 398,
@@ -497,7 +449,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1980/96936.webp"
   },
   {
-    "id": 251,
+    "id": 236,
     "anime": "Shin Chan",
     "season": 1,
     "episode": 1785,
@@ -509,11 +461,11 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 94635,
+    "members": 94638,
     "image": "https://cdn.myanimelist.net/images/anime/10/59897.webp"
   },
   {
-    "id": 211,
+    "id": 196,
     "anime": "Bono Bono",
     "season": 1,
     "episode": 534,
@@ -529,7 +481,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1686/149949.webp"
   },
   {
-    "id": 247,
+    "id": 232,
     "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
     "season": 1,
     "episode": 12,
@@ -541,11 +493,11 @@
     ],
     "malId": 57466,
     "score": 7.84,
-    "members": 80103,
+    "members": 80285,
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054.webp"
   },
   {
-    "id": 259,
+    "id": 244,
     "anime": "Case Closed",
     "season": 1,
     "episode": 1590,
@@ -558,11 +510,11 @@
     ],
     "malId": 235,
     "score": 8.18,
-    "members": 379168,
+    "members": 379188,
     "image": "https://cdn.myanimelist.net/images/anime/7/75199.webp"
   },
   {
-    "id": 243,
+    "id": 228,
     "anime": "Welcome to Demon School! Iruma-kun Season 4",
     "season": 4,
     "episode": 12,
@@ -574,11 +526,11 @@
     ],
     "malId": 60310,
     "score": 8.15,
-    "members": 79916,
+    "members": 80154,
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048.webp"
   },
   {
-    "id": 207,
+    "id": 192,
     "anime": "Ninjala (TV)",
     "season": 1,
     "episode": 233,
@@ -590,11 +542,11 @@
     ],
     "malId": 50418,
     "score": 5.58,
-    "members": 3906,
+    "members": 3909,
     "image": "https://cdn.myanimelist.net/images/anime/1552/119871.webp"
   },
   {
-    "id": 199,
+    "id": 184,
     "anime": "Shimajirou no Wow!",
     "season": 1,
     "episode": 743,
@@ -610,7 +562,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/50737.webp"
   },
   {
-    "id": 191,
+    "id": 176,
     "anime": "Oshiri Tantei 10th Season",
     "season": 10,
     "episode": 12,
@@ -626,7 +578,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1098/156208.webp"
   },
   {
-    "id": 203,
+    "id": 188,
     "anime": "Rilakkuma",
     "season": 1,
     "episode": 12,
@@ -637,12 +589,12 @@
       "Crunchyroll"
     ],
     "malId": 60153,
-    "score": 6.27,
-    "members": 3064,
+    "score": 6.28,
+    "members": 3068,
     "image": "https://cdn.myanimelist.net/images/anime/1705/158571.webp"
   },
   {
-    "id": 195,
+    "id": 180,
     "anime": "Nezumi-kun no Chokki (TV)",
     "season": 1,
     "episode": 12,
@@ -658,7 +610,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1515/152058.webp"
   },
   {
-    "id": 223,
+    "id": 208,
     "anime": "Yowayowa Sensei",
     "season": 1,
     "episode": 11,
@@ -669,12 +621,12 @@
       "Crunchyroll"
     ],
     "malId": 60444,
-    "score": 6.46,
-    "members": 39841,
+    "score": 6.47,
+    "members": 39989,
     "image": "https://cdn.myanimelist.net/images/anime/1364/155774.webp"
   },
   {
-    "id": 239,
+    "id": 224,
     "anime": "Kill Blue",
     "season": 1,
     "episode": 11,
@@ -686,11 +638,11 @@
     ],
     "malId": 62391,
     "score": 7.44,
-    "members": 60703,
+    "members": 61153,
     "image": "https://cdn.myanimelist.net/images/anime/1899/156600.webp"
   },
   {
-    "id": 255,
+    "id": 240,
     "anime": "Daemons of the Shadow Realm",
     "season": 1,
     "episode": 12,
@@ -702,11 +654,11 @@
     ],
     "malId": 62001,
     "score": 7.93,
-    "members": 197813,
+    "members": 198551,
     "image": "https://cdn.myanimelist.net/images/anime/1171/156397.webp"
   },
   {
-    "id": 219,
+    "id": 204,
     "anime": "Mao",
     "season": 1,
     "episode": 12,
@@ -718,11 +670,11 @@
     ],
     "malId": 62048,
     "score": 7.03,
-    "members": 33027,
+    "members": 33122,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156386.webp"
   },
   {
-    "id": 227,
+    "id": 220,
     "anime": "Botan Kamiina Fully Blossoms When Drunk",
     "season": 1,
     "episode": 11,
@@ -734,11 +686,11 @@
     ],
     "malId": 61186,
     "score": 7.93,
-    "members": 45685,
+    "members": 45913,
     "image": "https://cdn.myanimelist.net/images/anime/1026/155965.webp"
   },
   {
-    "id": 215,
+    "id": 200,
     "anime": "Hokuto no Ken: Fist of the North Star",
     "season": 1,
     "episode": 11,
@@ -750,11 +702,11 @@
     ],
     "malId": 56646,
     "score": 6.41,
-    "members": 13719,
+    "members": 13730,
     "image": "https://cdn.myanimelist.net/images/anime/1581/156641.webp"
   },
   {
-    "id": 231,
+    "id": 212,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 11,
@@ -766,11 +718,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 235,
+    "id": 216,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 11,
@@ -782,11 +734,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 151,
+    "id": 136,
     "anime": "Sore Ike! Anpanman",
     "season": 1,
     "episode": 1969,
@@ -802,7 +754,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1902/111797.webp"
   },
   {
-    "id": 155,
+    "id": 140,
     "anime": "Beyblade X",
     "season": 1,
     "episode": 142,
@@ -814,11 +766,11 @@
     ],
     "malId": 56566,
     "score": 6.88,
-    "members": 7324,
+    "members": 7326,
     "image": "https://cdn.myanimelist.net/images/anime/1394/145458.webp"
   },
   {
-    "id": 179,
+    "id": 164,
     "anime": "Pokémon Horizons: The Series",
     "season": 1,
     "episode": 167,
@@ -830,11 +782,11 @@
     ],
     "malId": 53876,
     "score": 7.41,
-    "members": 42591,
+    "members": 42611,
     "image": "https://cdn.myanimelist.net/images/anime/1703/137216.webp"
   },
   {
-    "id": 175,
+    "id": 160,
     "anime": "Doraemon (2005)",
     "season": 1,
     "episode": 1105,
@@ -846,11 +798,11 @@
     ],
     "malId": 8687,
     "score": 7.78,
-    "members": 23499,
+    "members": 23501,
     "image": "https://cdn.myanimelist.net/images/anime/6/23935.webp"
   },
   {
-    "id": 171,
+    "id": 156,
     "anime": "Chiikawa",
     "season": 1,
     "episode": 221,
@@ -862,11 +814,11 @@
     ],
     "malId": 50250,
     "score": 8.6,
-    "members": 22193,
+    "members": 22244,
     "image": "https://cdn.myanimelist.net/images/anime/1783/121944.webp"
   },
   {
-    "id": 187,
+    "id": 172,
     "anime": "That Time I Got Reincarnated as a Slime Season 4",
     "season": 4,
     "episode": 12,
@@ -878,11 +830,11 @@
     ],
     "malId": 59970,
     "score": 8.11,
-    "members": 210853,
+    "members": 211359,
     "image": "https://cdn.myanimelist.net/images/anime/1695/156389.webp"
   },
   {
-    "id": 159,
+    "id": 144,
     "anime": "The Drops of God",
     "season": 1,
     "episode": 11,
@@ -893,12 +845,12 @@
       "Crunchyroll"
     ],
     "malId": 62981,
-    "score": 5.94,
-    "members": 8727,
+    "score": 5.93,
+    "members": 8750,
     "image": "https://cdn.myanimelist.net/images/anime/1045/155698.webp"
   },
   {
-    "id": 167,
+    "id": 152,
     "anime": "Snowball Earth",
     "season": 1,
     "episode": 12,
@@ -910,11 +862,11 @@
     ],
     "malId": 62068,
     "score": 6.65,
-    "members": 21189,
+    "members": 21290,
     "image": "https://cdn.myanimelist.net/images/anime/1786/156390.webp"
   },
   {
-    "id": 183,
+    "id": 168,
     "anime": "Petals of Reincarnation",
     "season": 1,
     "episode": 12,
@@ -925,12 +877,12 @@
       "Crunchyroll"
     ],
     "malId": 59443,
-    "score": 5.94,
-    "members": 49914,
+    "score": 5.93,
+    "members": 49994,
     "image": "https://cdn.myanimelist.net/images/anime/1064/155042.webp"
   },
   {
-    "id": 163,
+    "id": 148,
     "anime": "A Hundred Scenes of Awajima",
     "season": 1,
     "episode": 11,
@@ -941,12 +893,12 @@
       "Crunchyroll"
     ],
     "malId": 58820,
-    "score": 6.85,
-    "members": 18309,
+    "score": 6.84,
+    "members": 18347,
     "image": "https://cdn.myanimelist.net/images/anime/1594/157161.webp"
   },
   {
-    "id": 147,
+    "id": 132,
     "anime": "Komekami! Girls",
     "season": 1,
     "episode": 11,
@@ -958,11 +910,11 @@
     ],
     "malId": 63709,
     "score": 5.29,
-    "members": 1825,
+    "members": 1830,
     "image": "https://cdn.myanimelist.net/images/anime/1392/156024.webp"
   },
   {
-    "id": 128,
+    "id": 113,
     "anime": "The Warrior Princess and the Barbaric King",
     "season": 1,
     "episode": 11,
@@ -974,43 +926,43 @@
     ],
     "malId": 60028,
     "score": 6.81,
-    "members": 85849,
+    "members": 86150,
     "image": "https://cdn.myanimelist.net/images/anime/1229/155022.webp"
   },
   {
-    "id": 139,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 12,
-    "title": "Why Man ",
-    "date": "2026-06-18",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
-    "id": 143,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 12,
-    "title": "Why Man ",
-    "date": "2026-06-18",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
     "id": 124,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 12,
+    "title": "Why Man ",
+    "date": "2026-06-18",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 128,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 12,
+    "title": "Why Man ",
+    "date": "2026-06-18",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 109,
     "anime": "Kujima: Why Sing, When You Can Warble?",
     "season": 1,
     "episode": 11,
@@ -1021,12 +973,12 @@
       "Crunchyroll"
     ],
     "malId": 58832,
-    "score": 6.3,
-    "members": 9904,
+    "score": 6.31,
+    "members": 9921,
     "image": "https://cdn.myanimelist.net/images/anime/1352/155195.webp"
   },
   {
-    "id": 132,
+    "id": 117,
     "anime": "The Ramparts of Ice",
     "season": 1,
     "episode": 12,
@@ -1037,12 +989,12 @@
       "Crunchyroll"
     ],
     "malId": 60852,
-    "score": 7.97,
-    "members": 98960,
+    "score": 7.98,
+    "members": 99525,
     "image": "https://cdn.myanimelist.net/images/anime/1565/154933.webp"
   },
   {
-    "id": 135,
+    "id": 120,
     "anime": "Smoking Behind the Supermarket with You",
     "season": 1,
     "episode": 3,
@@ -1054,11 +1006,11 @@
     ],
     "malId": 62076,
     "score": 8.56,
-    "members": 105294,
+    "members": 108140,
     "image": "https://cdn.myanimelist.net/images/anime/1768/156339.webp"
   },
   {
-    "id": 116,
+    "id": 101,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 10,
@@ -1069,12 +1021,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 120,
+    "id": 105,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 10,
@@ -1085,12 +1037,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 74,
+    "id": 59,
     "anime": "Chibi Godzilla no Gyakushuu 3rd Season",
     "season": 3,
     "episode": 51,
@@ -1106,7 +1058,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1859/150334.webp"
   },
   {
-    "id": 106,
+    "id": 91,
     "anime": "Classroom of the Elite 4th Season: Second Year, First Semester",
     "season": 4,
     "episode": 12,
@@ -1118,11 +1070,11 @@
     ],
     "malId": 59708,
     "score": 7.99,
-    "members": 216055,
+    "members": 216615,
     "image": "https://cdn.myanimelist.net/images/anime/1176/153626.webp"
   },
   {
-    "id": 94,
+    "id": 79,
     "anime": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
     "season": 3,
     "episode": 12,
@@ -1134,11 +1086,11 @@
     ],
     "malId": 62512,
     "score": 6.53,
-    "members": 28489,
+    "members": 28575,
     "image": "https://cdn.myanimelist.net/images/anime/1905/156697.webp"
   },
   {
-    "id": 110,
+    "id": 95,
     "anime": "Re:ZERO -Starting Life in Another World- Season 4",
     "season": 4,
     "episode": 11,
@@ -1150,11 +1102,11 @@
     ],
     "malId": 61316,
     "score": 9.2,
-    "members": 266947,
+    "members": 268504,
     "image": "https://cdn.myanimelist.net/images/anime/1540/155824.webp"
   },
   {
-    "id": 98,
+    "id": 83,
     "anime": "The Beginning After the End Season 2",
     "season": 2,
     "episode": 12,
@@ -1165,12 +1117,12 @@
       "Crunchyroll"
     ],
     "malId": 61831,
-    "score": 5.84,
-    "members": 68289,
+    "score": 5.85,
+    "members": 68506,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156028.webp"
   },
   {
-    "id": 102,
+    "id": 87,
     "anime": "Gals Can't Be Kind to Otaku!?",
     "season": 1,
     "episode": 11,
@@ -1182,11 +1134,11 @@
     ],
     "malId": 62604,
     "score": 7.57,
-    "members": 97363,
+    "members": 97785,
     "image": "https://cdn.myanimelist.net/images/anime/1956/155456.webp"
   },
   {
-    "id": 78,
+    "id": 63,
     "anime": "Eren the Southpaw",
     "season": 1,
     "episode": 11,
@@ -1198,11 +1150,11 @@
     ],
     "malId": 53732,
     "score": 6.09,
-    "members": 18398,
+    "members": 18442,
     "image": "https://cdn.myanimelist.net/images/anime/1015/156388.webp"
   },
   {
-    "id": 82,
+    "id": 67,
     "anime": "Pardon the Intrusion, I'm Home!",
     "season": 1,
     "episode": 11,
@@ -1213,12 +1165,12 @@
       "Crunchyroll"
     ],
     "malId": 63014,
-    "score": 6.46,
-    "members": 20113,
+    "score": 6.47,
+    "members": 20197,
     "image": "https://cdn.myanimelist.net/images/anime/1199/156106.webp"
   },
   {
-    "id": 86,
+    "id": 71,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 11,
@@ -1230,11 +1182,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 90,
+    "id": 75,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 11,
@@ -1246,11 +1198,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 34,
+    "id": 19,
     "anime": "Fushigi Dagashiya: Zenitendou",
     "season": 1,
     "episode": 302,
@@ -1262,11 +1214,11 @@
     ],
     "malId": 42295,
     "score": 6.15,
-    "members": 2434,
+    "members": 2436,
     "image": "https://cdn.myanimelist.net/images/anime/1602/150098.webp"
   },
   {
-    "id": 29,
+    "id": 14,
     "anime": "Origami Ninja Koyankinte",
     "season": 1,
     "episode": 324,
@@ -1282,7 +1234,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1860/106477.webp"
   },
   {
-    "id": 39,
+    "id": 24,
     "anime": "Beyond Twilight",
     "season": 1,
     "episode": 11,
@@ -1293,12 +1245,12 @@
       "Crunchyroll"
     ],
     "malId": 63469,
-    "score": 5.18,
-    "members": 3576,
+    "score": 5.19,
+    "members": 3580,
     "image": "https://cdn.myanimelist.net/images/anime/1589/156720.webp"
   },
   {
-    "id": 49,
+    "id": 34,
     "anime": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
     "season": 2,
     "episode": 11,
@@ -1310,11 +1262,11 @@
     ],
     "malId": 61931,
     "score": 7.11,
-    "members": 41590,
+    "members": 41712,
     "image": "https://cdn.myanimelist.net/images/anime/1916/155657.webp"
   },
   {
-    "id": 59,
+    "id": 44,
     "anime": "I Want to End This Love Game",
     "season": 1,
     "episode": 10,
@@ -1326,11 +1278,11 @@
     ],
     "malId": 61839,
     "score": 7.31,
-    "members": 78716,
+    "members": 79137,
     "image": "https://cdn.myanimelist.net/images/anime/1879/155958.webp"
   },
   {
-    "id": 64,
+    "id": 49,
     "anime": "Marriagetoxin",
     "season": 1,
     "episode": 11,
@@ -1342,11 +1294,11 @@
     ],
     "malId": 62601,
     "score": 7.52,
-    "members": 122363,
+    "members": 122967,
     "image": "https://cdn.myanimelist.net/images/anime/1927/154309.webp"
   },
   {
-    "id": 44,
+    "id": 29,
     "anime": "Even a Replica Can Fall in Love",
     "season": 1,
     "episode": 11,
@@ -1358,11 +1310,11 @@
     ],
     "malId": 61013,
     "score": 7,
-    "members": 26187,
+    "members": 26298,
     "image": "https://cdn.myanimelist.net/images/anime/1148/155671.webp"
   },
   {
-    "id": 69,
+    "id": 54,
     "anime": "I Made Friends with the Second Prettiest Girl in My Class",
     "season": 1,
     "episode": 11,
@@ -1374,11 +1326,11 @@
     ],
     "malId": 56734,
     "score": 7.91,
-    "members": 126426,
+    "members": 127129,
     "image": "https://cdn.myanimelist.net/images/anime/1423/155713.webp"
   },
   {
-    "id": 54,
+    "id": 39,
     "anime": "Liar Game",
     "season": 1,
     "episode": 11,
@@ -1390,8 +1342,8 @@
     ],
     "malId": 62331,
     "score": 6.33,
-    "members": 67852,
-    "image": "https://cdn.myanimelist.net/images/anime/1607/156078.webp"
+    "members": 68072,
+    "image": "https://cdn.myanimelist.net/images/anime/1984/158634.webp"
   },
   {
     "id": 9,
@@ -1406,56 +1358,8 @@
     ],
     "malId": 37096,
     "score": 6.1,
-    "members": 2078,
+    "members": 2079,
     "image": "https://cdn.myanimelist.net/images/anime/1460/149962.webp"
-  },
-  {
-    "id": 19,
-    "anime": "Farming Life in Another World Season 2",
-    "season": 2,
-    "episode": 11,
-    "title": "Sora ni Ukabu Shiro ",
-    "date": "2026-06-15",
-    "releaseTime": "08:00 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62146,
-    "score": 7.42,
-    "members": 77159,
-    "image": "https://cdn.myanimelist.net/images/anime/1656/156369.webp"
-  },
-  {
-    "id": 24,
-    "anime": "Witch Hat Atelier",
-    "season": 1,
-    "episode": 11,
-    "title": "Hebi no Se Doukutsu no Shiken ",
-    "date": "2026-06-15",
-    "releaseTime": "08:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 51553,
-    "score": 8.67,
-    "members": 345756,
-    "image": "https://cdn.myanimelist.net/images/anime/1726/155542.webp"
-  },
-  {
-    "id": 14,
-    "anime": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-    "season": 1,
-    "episode": 11,
-    "title": "Ponkotsu Nachi ga Bunkasai o Tanoshimu Hanashi ",
-    "date": "2026-06-15",
-    "releaseTime": "08:54 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 61425,
-    "score": 7.58,
-    "members": 50787,
-    "image": "https://cdn.myanimelist.net/images/anime/1484/155726.webp"
   },
   {
     "id": 4,
@@ -1474,7 +1378,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1433/134811.webp"
   },
   {
-    "id": 322,
+    "id": 307,
     "anime": "Wistoria: Wand and Sword Season 2",
     "season": 2,
     "episode": 10,
@@ -1486,11 +1390,11 @@
     ],
     "malId": 59983,
     "score": 8.25,
-    "members": 167712,
+    "members": 168588,
     "image": "https://cdn.myanimelist.net/images/anime/1190/155788.webp"
   },
   {
-    "id": 310,
+    "id": 295,
     "anime": "Mission: Yozakura Family Season 2",
     "season": 2,
     "episode": 10,
@@ -1501,12 +1405,12 @@
       "Crunchyroll"
     ],
     "malId": 60055,
-    "score": 7.64,
-    "members": 40583,
+    "score": 7.65,
+    "members": 40695,
     "image": "https://cdn.myanimelist.net/images/anime/1230/155783.webp"
   },
   {
-    "id": 294,
+    "id": 279,
     "anime": "Ace of Diamond Act II Season 2",
     "season": 2,
     "episode": 11,
@@ -1518,11 +1422,11 @@
     ],
     "malId": 58877,
     "score": 8.12,
-    "members": 20161,
+    "members": 20224,
     "image": "https://cdn.myanimelist.net/images/anime/1594/154245.webp"
   },
   {
-    "id": 286,
+    "id": 271,
     "anime": "Little Miss Maruko",
     "season": 1,
     "episode": 1641,
@@ -1538,7 +1442,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1678/153148.webp"
   },
   {
-    "id": 290,
+    "id": 275,
     "anime": "Mrs. Sazae",
     "season": 1,
     "episode": 2959,
@@ -1550,11 +1454,11 @@
     ],
     "malId": 2406,
     "score": 6.15,
-    "members": 10464,
+    "members": 10467,
     "image": "https://cdn.myanimelist.net/images/anime/1008/98996.webp"
   },
   {
-    "id": 262,
+    "id": 247,
     "anime": "Kumarba Season 3",
     "season": 3,
     "episode": 10,
@@ -1570,7 +1474,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1148/155162.webp"
   },
   {
-    "id": 266,
+    "id": 251,
     "anime": "Shou 3 Ashibe QQ Goma-chan",
     "season": 1,
     "episode": 10,
@@ -1586,7 +1490,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1899/155697.webp"
   },
   {
-    "id": 278,
+    "id": 263,
     "anime": "Koupen-chan",
     "season": 1,
     "episode": 63,
@@ -1598,11 +1502,11 @@
     ],
     "malId": 60534,
     "score": 7.55,
-    "members": 6891,
+    "members": 6897,
     "image": "https://cdn.myanimelist.net/images/anime/1533/146981.webp"
   },
   {
-    "id": 282,
+    "id": 267,
     "anime": "Star Detective Precure!",
     "season": 1,
     "episode": 20,
@@ -1614,11 +1518,11 @@
     ],
     "malId": 63042,
     "score": 7.59,
-    "members": 6912,
+    "members": 6932,
     "image": "https://cdn.myanimelist.net/images/anime/1706/154944.webp"
   },
   {
-    "id": 298,
+    "id": 283,
     "anime": "Digimon Beatbreak",
     "season": 1,
     "episode": 37,
@@ -1629,12 +1533,12 @@
       "Crunchyroll"
     ],
     "malId": 61269,
-    "score": 7.13,
-    "members": 27135,
+    "score": 7.14,
+    "members": 27152,
     "image": "https://cdn.myanimelist.net/images/anime/1776/151242.webp"
   },
   {
-    "id": 274,
+    "id": 259,
     "anime": "Onegai AiPri",
     "season": 1,
     "episode": 11,
@@ -1646,11 +1550,11 @@
     ],
     "malId": 63352,
     "score": 5.92,
-    "members": 1225,
+    "members": 1226,
     "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
   },
   {
-    "id": 326,
+    "id": 311,
     "anime": "One Piece",
     "season": 1,
     "episode": 1392,
@@ -1663,11 +1567,11 @@
     ],
     "malId": 21,
     "score": 8.73,
-    "members": 2696599,
+    "members": 2697003,
     "image": "https://cdn.myanimelist.net/images/anime/1244/138851.webp"
   },
   {
-    "id": 306,
+    "id": 291,
     "anime": "The Classroom of a Black Cat and a Witch",
     "season": 1,
     "episode": 10,
@@ -1678,12 +1582,12 @@
       "Crunchyroll"
     ],
     "malId": 62171,
-    "score": 6.53,
-    "members": 32605,
+    "score": 6.52,
+    "members": 32772,
     "image": "https://cdn.myanimelist.net/images/anime/1716/153989.webp"
   },
   {
-    "id": 318,
+    "id": 303,
     "anime": "Agents of the Four Seasons: Dance of Spring",
     "season": 1,
     "episode": 12,
@@ -1694,12 +1598,12 @@
       "Crunchyroll"
     ],
     "malId": 61443,
-    "score": 7.68,
-    "members": 72327,
+    "score": 7.67,
+    "members": 72660,
     "image": "https://cdn.myanimelist.net/images/anime/1993/156385.webp"
   },
   {
-    "id": 314,
+    "id": 299,
     "anime": "Needy Girl Overdose",
     "season": 1,
     "episode": 11,
@@ -1711,11 +1615,11 @@
     ],
     "malId": 62913,
     "score": 6.74,
-    "members": 58132,
+    "members": 58301,
     "image": "https://cdn.myanimelist.net/images/anime/1755/154935.webp"
   },
   {
-    "id": 302,
+    "id": 287,
     "anime": "Scum of the Brave",
     "season": 1,
     "episode": 23,
@@ -1727,11 +1631,11 @@
     ],
     "malId": 61217,
     "score": 6.51,
-    "members": 31442,
+    "members": 31504,
     "image": "https://cdn.myanimelist.net/images/anime/1821/154043.webp"
   },
   {
-    "id": 270,
+    "id": 255,
     "anime": "Manul no Yuube",
     "season": 1,
     "episode": 397,
@@ -1747,7 +1651,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1980/96936.webp"
   },
   {
-    "id": 250,
+    "id": 235,
     "anime": "Shin Chan",
     "season": 1,
     "episode": 1784,
@@ -1759,11 +1663,11 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 94635,
+    "members": 94638,
     "image": "https://cdn.myanimelist.net/images/anime/10/59897.webp"
   },
   {
-    "id": 210,
+    "id": 195,
     "anime": "Bono Bono",
     "season": 1,
     "episode": 533,
@@ -1779,7 +1683,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1686/149949.webp"
   },
   {
-    "id": 246,
+    "id": 231,
     "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
     "season": 1,
     "episode": 11,
@@ -1791,11 +1695,11 @@
     ],
     "malId": 57466,
     "score": 7.84,
-    "members": 80103,
+    "members": 80285,
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054.webp"
   },
   {
-    "id": 258,
+    "id": 243,
     "anime": "Case Closed",
     "season": 1,
     "episode": 1589,
@@ -1808,11 +1712,11 @@
     ],
     "malId": 235,
     "score": 8.18,
-    "members": 379168,
+    "members": 379188,
     "image": "https://cdn.myanimelist.net/images/anime/7/75199.webp"
   },
   {
-    "id": 242,
+    "id": 227,
     "anime": "Welcome to Demon School! Iruma-kun Season 4",
     "season": 4,
     "episode": 11,
@@ -1824,11 +1728,11 @@
     ],
     "malId": 60310,
     "score": 8.15,
-    "members": 79916,
+    "members": 80154,
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048.webp"
   },
   {
-    "id": 206,
+    "id": 191,
     "anime": "Ninjala (TV)",
     "season": 1,
     "episode": 232,
@@ -1840,11 +1744,11 @@
     ],
     "malId": 50418,
     "score": 5.58,
-    "members": 3906,
+    "members": 3909,
     "image": "https://cdn.myanimelist.net/images/anime/1552/119871.webp"
   },
   {
-    "id": 198,
+    "id": 183,
     "anime": "Shimajirou no Wow!",
     "season": 1,
     "episode": 742,
@@ -1860,7 +1764,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/50737.webp"
   },
   {
-    "id": 190,
+    "id": 175,
     "anime": "Oshiri Tantei 10th Season",
     "season": 10,
     "episode": 11,
@@ -1876,7 +1780,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1098/156208.webp"
   },
   {
-    "id": 202,
+    "id": 187,
     "anime": "Rilakkuma",
     "season": 1,
     "episode": 11,
@@ -1887,12 +1791,12 @@
       "Crunchyroll"
     ],
     "malId": 60153,
-    "score": 6.27,
-    "members": 3064,
+    "score": 6.28,
+    "members": 3068,
     "image": "https://cdn.myanimelist.net/images/anime/1705/158571.webp"
   },
   {
-    "id": 194,
+    "id": 179,
     "anime": "Nezumi-kun no Chokki (TV)",
     "season": 1,
     "episode": 11,
@@ -1908,7 +1812,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1515/152058.webp"
   },
   {
-    "id": 222,
+    "id": 207,
     "anime": "Yowayowa Sensei",
     "season": 1,
     "episode": 10,
@@ -1919,12 +1823,12 @@
       "Crunchyroll"
     ],
     "malId": 60444,
-    "score": 6.46,
-    "members": 39841,
+    "score": 6.47,
+    "members": 39989,
     "image": "https://cdn.myanimelist.net/images/anime/1364/155774.webp"
   },
   {
-    "id": 238,
+    "id": 223,
     "anime": "Kill Blue",
     "season": 1,
     "episode": 10,
@@ -1936,11 +1840,11 @@
     ],
     "malId": 62391,
     "score": 7.44,
-    "members": 60703,
+    "members": 61153,
     "image": "https://cdn.myanimelist.net/images/anime/1899/156600.webp"
   },
   {
-    "id": 254,
+    "id": 239,
     "anime": "Daemons of the Shadow Realm",
     "season": 1,
     "episode": 11,
@@ -1952,11 +1856,11 @@
     ],
     "malId": 62001,
     "score": 7.93,
-    "members": 197813,
+    "members": 198551,
     "image": "https://cdn.myanimelist.net/images/anime/1171/156397.webp"
   },
   {
-    "id": 218,
+    "id": 203,
     "anime": "Mao",
     "season": 1,
     "episode": 11,
@@ -1968,11 +1872,11 @@
     ],
     "malId": 62048,
     "score": 7.03,
-    "members": 33027,
+    "members": 33122,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156386.webp"
   },
   {
-    "id": 226,
+    "id": 219,
     "anime": "Botan Kamiina Fully Blossoms When Drunk",
     "season": 1,
     "episode": 10,
@@ -1984,11 +1888,11 @@
     ],
     "malId": 61186,
     "score": 7.93,
-    "members": 45685,
+    "members": 45913,
     "image": "https://cdn.myanimelist.net/images/anime/1026/155965.webp"
   },
   {
-    "id": 214,
+    "id": 199,
     "anime": "Hokuto no Ken: Fist of the North Star",
     "season": 1,
     "episode": 10,
@@ -2000,11 +1904,11 @@
     ],
     "malId": 56646,
     "score": 6.41,
-    "members": 13719,
+    "members": 13730,
     "image": "https://cdn.myanimelist.net/images/anime/1581/156641.webp"
   },
   {
-    "id": 230,
+    "id": 211,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 10,
@@ -2016,11 +1920,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 234,
+    "id": 215,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 10,
@@ -2032,11 +1936,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 150,
+    "id": 135,
     "anime": "Sore Ike! Anpanman",
     "season": 1,
     "episode": 1968,
@@ -2052,7 +1956,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1902/111797.webp"
   },
   {
-    "id": 154,
+    "id": 139,
     "anime": "Beyblade X",
     "season": 1,
     "episode": 141,
@@ -2064,11 +1968,11 @@
     ],
     "malId": 56566,
     "score": 6.88,
-    "members": 7324,
+    "members": 7326,
     "image": "https://cdn.myanimelist.net/images/anime/1394/145458.webp"
   },
   {
-    "id": 178,
+    "id": 163,
     "anime": "Pokémon Horizons: The Series",
     "season": 1,
     "episode": 166,
@@ -2080,11 +1984,11 @@
     ],
     "malId": 53876,
     "score": 7.41,
-    "members": 42591,
+    "members": 42611,
     "image": "https://cdn.myanimelist.net/images/anime/1703/137216.webp"
   },
   {
-    "id": 174,
+    "id": 159,
     "anime": "Doraemon (2005)",
     "season": 1,
     "episode": 1104,
@@ -2096,11 +2000,11 @@
     ],
     "malId": 8687,
     "score": 7.78,
-    "members": 23499,
+    "members": 23501,
     "image": "https://cdn.myanimelist.net/images/anime/6/23935.webp"
   },
   {
-    "id": 170,
+    "id": 155,
     "anime": "Chiikawa",
     "season": 1,
     "episode": 220,
@@ -2112,15 +2016,15 @@
     ],
     "malId": 50250,
     "score": 8.6,
-    "members": 22193,
+    "members": 22244,
     "image": "https://cdn.myanimelist.net/images/anime/1783/121944.webp"
   },
   {
-    "id": 186,
+    "id": 171,
     "anime": "That Time I Got Reincarnated as a Slime Season 4",
     "season": 4,
     "episode": 11,
-    "title": "Episode 11",
+    "title": "Milim no Tomodachi ",
     "date": "2026-06-12",
     "releaseTime": "08:30 PM",
     "streaming": [
@@ -2128,11 +2032,11 @@
     ],
     "malId": 59970,
     "score": 8.11,
-    "members": 210853,
+    "members": 211359,
     "image": "https://cdn.myanimelist.net/images/anime/1695/156389.webp"
   },
   {
-    "id": 158,
+    "id": 143,
     "anime": "The Drops of God",
     "season": 1,
     "episode": 10,
@@ -2143,12 +2047,12 @@
       "Crunchyroll"
     ],
     "malId": 62981,
-    "score": 5.94,
-    "members": 8727,
+    "score": 5.93,
+    "members": 8750,
     "image": "https://cdn.myanimelist.net/images/anime/1045/155698.webp"
   },
   {
-    "id": 166,
+    "id": 151,
     "anime": "Snowball Earth",
     "season": 1,
     "episode": 11,
@@ -2160,11 +2064,11 @@
     ],
     "malId": 62068,
     "score": 6.65,
-    "members": 21189,
+    "members": 21290,
     "image": "https://cdn.myanimelist.net/images/anime/1786/156390.webp"
   },
   {
-    "id": 182,
+    "id": 167,
     "anime": "Petals of Reincarnation",
     "season": 1,
     "episode": 11,
@@ -2175,12 +2079,12 @@
       "Crunchyroll"
     ],
     "malId": 59443,
-    "score": 5.94,
-    "members": 49914,
+    "score": 5.93,
+    "members": 49994,
     "image": "https://cdn.myanimelist.net/images/anime/1064/155042.webp"
   },
   {
-    "id": 162,
+    "id": 147,
     "anime": "A Hundred Scenes of Awajima",
     "season": 1,
     "episode": 10,
@@ -2191,12 +2095,12 @@
       "Crunchyroll"
     ],
     "malId": 58820,
-    "score": 6.85,
-    "members": 18309,
+    "score": 6.84,
+    "members": 18347,
     "image": "https://cdn.myanimelist.net/images/anime/1594/157161.webp"
   },
   {
-    "id": 146,
+    "id": 131,
     "anime": "Komekami! Girls",
     "season": 1,
     "episode": 10,
@@ -2208,11 +2112,11 @@
     ],
     "malId": 63709,
     "score": 5.29,
-    "members": 1825,
+    "members": 1830,
     "image": "https://cdn.myanimelist.net/images/anime/1392/156024.webp"
   },
   {
-    "id": 127,
+    "id": 112,
     "anime": "The Warrior Princess and the Barbaric King",
     "season": 1,
     "episode": 10,
@@ -2224,43 +2128,43 @@
     ],
     "malId": 60028,
     "score": 6.81,
-    "members": 85849,
+    "members": 86150,
     "image": "https://cdn.myanimelist.net/images/anime/1229/155022.webp"
   },
   {
-    "id": 138,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 11,
-    "title": "Giant Step ",
-    "date": "2026-06-11",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
-    "id": 142,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 11,
-    "title": "Giant Step ",
-    "date": "2026-06-11",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
     "id": 123,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 11,
+    "title": "Giant Step ",
+    "date": "2026-06-11",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 127,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 11,
+    "title": "Giant Step ",
+    "date": "2026-06-11",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 108,
     "anime": "Kujima: Why Sing, When You Can Warble?",
     "season": 1,
     "episode": 10,
@@ -2271,12 +2175,12 @@
       "Crunchyroll"
     ],
     "malId": 58832,
-    "score": 6.3,
-    "members": 9904,
+    "score": 6.31,
+    "members": 9921,
     "image": "https://cdn.myanimelist.net/images/anime/1352/155195.webp"
   },
   {
-    "id": 131,
+    "id": 116,
     "anime": "The Ramparts of Ice",
     "season": 1,
     "episode": 11,
@@ -2287,12 +2191,12 @@
       "Crunchyroll"
     ],
     "malId": 60852,
-    "score": 7.97,
-    "members": 98960,
+    "score": 7.98,
+    "members": 99525,
     "image": "https://cdn.myanimelist.net/images/anime/1565/154933.webp"
   },
   {
-    "id": 134,
+    "id": 119,
     "anime": "Smoking Behind the Supermarket with You",
     "season": 1,
     "episode": 2,
@@ -2304,11 +2208,11 @@
     ],
     "malId": 62076,
     "score": 8.56,
-    "members": 105294,
+    "members": 108140,
     "image": "https://cdn.myanimelist.net/images/anime/1768/156339.webp"
   },
   {
-    "id": 115,
+    "id": 100,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 9,
@@ -2319,12 +2223,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 119,
+    "id": 104,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 9,
@@ -2335,12 +2239,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 73,
+    "id": 58,
     "anime": "Chibi Godzilla no Gyakushuu 3rd Season",
     "season": 3,
     "episode": 50,
@@ -2356,7 +2260,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1859/150334.webp"
   },
   {
-    "id": 105,
+    "id": 90,
     "anime": "Classroom of the Elite 4th Season: Second Year, First Semester",
     "season": 4,
     "episode": 11,
@@ -2368,11 +2272,11 @@
     ],
     "malId": 59708,
     "score": 7.99,
-    "members": 216055,
+    "members": 216615,
     "image": "https://cdn.myanimelist.net/images/anime/1176/153626.webp"
   },
   {
-    "id": 93,
+    "id": 78,
     "anime": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
     "season": 3,
     "episode": 11,
@@ -2384,11 +2288,11 @@
     ],
     "malId": 62512,
     "score": 6.53,
-    "members": 28489,
+    "members": 28575,
     "image": "https://cdn.myanimelist.net/images/anime/1905/156697.webp"
   },
   {
-    "id": 109,
+    "id": 94,
     "anime": "Re:ZERO -Starting Life in Another World- Season 4",
     "season": 4,
     "episode": 10,
@@ -2400,11 +2304,11 @@
     ],
     "malId": 61316,
     "score": 9.2,
-    "members": 266947,
+    "members": 268504,
     "image": "https://cdn.myanimelist.net/images/anime/1540/155824.webp"
   },
   {
-    "id": 97,
+    "id": 82,
     "anime": "The Beginning After the End Season 2",
     "season": 2,
     "episode": 11,
@@ -2415,12 +2319,12 @@
       "Crunchyroll"
     ],
     "malId": 61831,
-    "score": 5.84,
-    "members": 68289,
+    "score": 5.85,
+    "members": 68506,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156028.webp"
   },
   {
-    "id": 101,
+    "id": 86,
     "anime": "Gals Can't Be Kind to Otaku!?",
     "season": 1,
     "episode": 10,
@@ -2432,11 +2336,11 @@
     ],
     "malId": 62604,
     "score": 7.57,
-    "members": 97363,
+    "members": 97785,
     "image": "https://cdn.myanimelist.net/images/anime/1956/155456.webp"
   },
   {
-    "id": 77,
+    "id": 62,
     "anime": "Eren the Southpaw",
     "season": 1,
     "episode": 10,
@@ -2448,11 +2352,11 @@
     ],
     "malId": 53732,
     "score": 6.09,
-    "members": 18398,
+    "members": 18442,
     "image": "https://cdn.myanimelist.net/images/anime/1015/156388.webp"
   },
   {
-    "id": 81,
+    "id": 66,
     "anime": "Pardon the Intrusion, I'm Home!",
     "season": 1,
     "episode": 10,
@@ -2463,12 +2367,12 @@
       "Crunchyroll"
     ],
     "malId": 63014,
-    "score": 6.46,
-    "members": 20113,
+    "score": 6.47,
+    "members": 20197,
     "image": "https://cdn.myanimelist.net/images/anime/1199/156106.webp"
   },
   {
-    "id": 85,
+    "id": 70,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 10,
@@ -2480,11 +2384,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 89,
+    "id": 74,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 10,
@@ -2496,11 +2400,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 33,
+    "id": 18,
     "anime": "Fushigi Dagashiya: Zenitendou",
     "season": 1,
     "episode": 301,
@@ -2512,11 +2416,11 @@
     ],
     "malId": 42295,
     "score": 6.15,
-    "members": 2434,
+    "members": 2436,
     "image": "https://cdn.myanimelist.net/images/anime/1602/150098.webp"
   },
   {
-    "id": 28,
+    "id": 13,
     "anime": "Origami Ninja Koyankinte",
     "season": 1,
     "episode": 323,
@@ -2532,7 +2436,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1860/106477.webp"
   },
   {
-    "id": 38,
+    "id": 23,
     "anime": "Beyond Twilight",
     "season": 1,
     "episode": 10,
@@ -2543,12 +2447,12 @@
       "Crunchyroll"
     ],
     "malId": 63469,
-    "score": 5.18,
-    "members": 3576,
+    "score": 5.19,
+    "members": 3580,
     "image": "https://cdn.myanimelist.net/images/anime/1589/156720.webp"
   },
   {
-    "id": 48,
+    "id": 33,
     "anime": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
     "season": 2,
     "episode": 10,
@@ -2560,11 +2464,11 @@
     ],
     "malId": 61931,
     "score": 7.11,
-    "members": 41590,
+    "members": 41712,
     "image": "https://cdn.myanimelist.net/images/anime/1916/155657.webp"
   },
   {
-    "id": 58,
+    "id": 43,
     "anime": "I Want to End This Love Game",
     "season": 1,
     "episode": 9,
@@ -2576,11 +2480,11 @@
     ],
     "malId": 61839,
     "score": 7.31,
-    "members": 78716,
+    "members": 79137,
     "image": "https://cdn.myanimelist.net/images/anime/1879/155958.webp"
   },
   {
-    "id": 63,
+    "id": 48,
     "anime": "Marriagetoxin",
     "season": 1,
     "episode": 10,
@@ -2592,11 +2496,11 @@
     ],
     "malId": 62601,
     "score": 7.52,
-    "members": 122363,
+    "members": 122967,
     "image": "https://cdn.myanimelist.net/images/anime/1927/154309.webp"
   },
   {
-    "id": 43,
+    "id": 28,
     "anime": "Even a Replica Can Fall in Love",
     "season": 1,
     "episode": 10,
@@ -2608,11 +2512,11 @@
     ],
     "malId": 61013,
     "score": 7,
-    "members": 26187,
+    "members": 26298,
     "image": "https://cdn.myanimelist.net/images/anime/1148/155671.webp"
   },
   {
-    "id": 68,
+    "id": 53,
     "anime": "I Made Friends with the Second Prettiest Girl in My Class",
     "season": 1,
     "episode": 10,
@@ -2624,11 +2528,11 @@
     ],
     "malId": 56734,
     "score": 7.91,
-    "members": 126426,
+    "members": 127129,
     "image": "https://cdn.myanimelist.net/images/anime/1423/155713.webp"
   },
   {
-    "id": 53,
+    "id": 38,
     "anime": "Liar Game",
     "season": 1,
     "episode": 10,
@@ -2640,8 +2544,8 @@
     ],
     "malId": 62331,
     "score": 6.33,
-    "members": 67852,
-    "image": "https://cdn.myanimelist.net/images/anime/1607/156078.webp"
+    "members": 68072,
+    "image": "https://cdn.myanimelist.net/images/anime/1984/158634.webp"
   },
   {
     "id": 8,
@@ -2656,56 +2560,8 @@
     ],
     "malId": 37096,
     "score": 6.1,
-    "members": 2078,
+    "members": 2079,
     "image": "https://cdn.myanimelist.net/images/anime/1460/149962.webp"
-  },
-  {
-    "id": 18,
-    "anime": "Farming Life in Another World Season 2",
-    "season": 2,
-    "episode": 10,
-    "title": "Omatsuri to Fuushu no Orei ",
-    "date": "2026-06-08",
-    "releaseTime": "08:00 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62146,
-    "score": 7.42,
-    "members": 77159,
-    "image": "https://cdn.myanimelist.net/images/anime/1656/156369.webp"
-  },
-  {
-    "id": 23,
-    "anime": "Witch Hat Atelier",
-    "season": 1,
-    "episode": 10,
-    "title": "Giniro no Yakusoku ",
-    "date": "2026-06-08",
-    "releaseTime": "08:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 51553,
-    "score": 8.67,
-    "members": 345756,
-    "image": "https://cdn.myanimelist.net/images/anime/1726/155542.webp"
-  },
-  {
-    "id": 13,
-    "anime": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-    "season": 1,
-    "episode": 10,
-    "title": "Ponkotsu-tachi to Bunkasai wo Junbi Suru Hanashi ",
-    "date": "2026-06-08",
-    "releaseTime": "08:54 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 61425,
-    "score": 7.58,
-    "members": 50787,
-    "image": "https://cdn.myanimelist.net/images/anime/1484/155726.webp"
   },
   {
     "id": 3,
@@ -2724,7 +2580,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1433/134811.webp"
   },
   {
-    "id": 321,
+    "id": 306,
     "anime": "Wistoria: Wand and Sword Season 2",
     "season": 2,
     "episode": 9,
@@ -2736,11 +2592,11 @@
     ],
     "malId": 59983,
     "score": 8.25,
-    "members": 167712,
+    "members": 168588,
     "image": "https://cdn.myanimelist.net/images/anime/1190/155788.webp"
   },
   {
-    "id": 309,
+    "id": 294,
     "anime": "Mission: Yozakura Family Season 2",
     "season": 2,
     "episode": 9,
@@ -2751,12 +2607,12 @@
       "Crunchyroll"
     ],
     "malId": 60055,
-    "score": 7.64,
-    "members": 40583,
+    "score": 7.65,
+    "members": 40695,
     "image": "https://cdn.myanimelist.net/images/anime/1230/155783.webp"
   },
   {
-    "id": 293,
+    "id": 278,
     "anime": "Ace of Diamond Act II Season 2",
     "season": 2,
     "episode": 10,
@@ -2768,11 +2624,11 @@
     ],
     "malId": 58877,
     "score": 8.12,
-    "members": 20161,
+    "members": 20224,
     "image": "https://cdn.myanimelist.net/images/anime/1594/154245.webp"
   },
   {
-    "id": 285,
+    "id": 270,
     "anime": "Little Miss Maruko",
     "season": 1,
     "episode": 1640,
@@ -2788,7 +2644,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1678/153148.webp"
   },
   {
-    "id": 289,
+    "id": 274,
     "anime": "Mrs. Sazae",
     "season": 1,
     "episode": 2958,
@@ -2800,11 +2656,11 @@
     ],
     "malId": 2406,
     "score": 6.15,
-    "members": 10464,
+    "members": 10467,
     "image": "https://cdn.myanimelist.net/images/anime/1008/98996.webp"
   },
   {
-    "id": 261,
+    "id": 246,
     "anime": "Kumarba Season 3",
     "season": 3,
     "episode": 9,
@@ -2820,7 +2676,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1148/155162.webp"
   },
   {
-    "id": 265,
+    "id": 250,
     "anime": "Shou 3 Ashibe QQ Goma-chan",
     "season": 1,
     "episode": 9,
@@ -2836,7 +2692,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1899/155697.webp"
   },
   {
-    "id": 277,
+    "id": 262,
     "anime": "Koupen-chan",
     "season": 1,
     "episode": 62,
@@ -2848,11 +2704,11 @@
     ],
     "malId": 60534,
     "score": 7.55,
-    "members": 6891,
+    "members": 6897,
     "image": "https://cdn.myanimelist.net/images/anime/1533/146981.webp"
   },
   {
-    "id": 281,
+    "id": 266,
     "anime": "Star Detective Precure!",
     "season": 1,
     "episode": 19,
@@ -2864,11 +2720,11 @@
     ],
     "malId": 63042,
     "score": 7.59,
-    "members": 6912,
+    "members": 6932,
     "image": "https://cdn.myanimelist.net/images/anime/1706/154944.webp"
   },
   {
-    "id": 297,
+    "id": 282,
     "anime": "Digimon Beatbreak",
     "season": 1,
     "episode": 36,
@@ -2879,12 +2735,12 @@
       "Crunchyroll"
     ],
     "malId": 61269,
-    "score": 7.13,
-    "members": 27135,
+    "score": 7.14,
+    "members": 27152,
     "image": "https://cdn.myanimelist.net/images/anime/1776/151242.webp"
   },
   {
-    "id": 273,
+    "id": 258,
     "anime": "Onegai AiPri",
     "season": 1,
     "episode": 10,
@@ -2896,11 +2752,11 @@
     ],
     "malId": 63352,
     "score": 5.92,
-    "members": 1225,
+    "members": 1226,
     "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
   },
   {
-    "id": 325,
+    "id": 310,
     "anime": "One Piece",
     "season": 1,
     "episode": 1391,
@@ -2913,11 +2769,11 @@
     ],
     "malId": 21,
     "score": 8.73,
-    "members": 2696599,
+    "members": 2697003,
     "image": "https://cdn.myanimelist.net/images/anime/1244/138851.webp"
   },
   {
-    "id": 305,
+    "id": 290,
     "anime": "The Classroom of a Black Cat and a Witch",
     "season": 1,
     "episode": 9,
@@ -2928,12 +2784,12 @@
       "Crunchyroll"
     ],
     "malId": 62171,
-    "score": 6.53,
-    "members": 32605,
+    "score": 6.52,
+    "members": 32772,
     "image": "https://cdn.myanimelist.net/images/anime/1716/153989.webp"
   },
   {
-    "id": 317,
+    "id": 302,
     "anime": "Agents of the Four Seasons: Dance of Spring",
     "season": 1,
     "episode": 11,
@@ -2944,12 +2800,12 @@
       "Crunchyroll"
     ],
     "malId": 61443,
-    "score": 7.68,
-    "members": 72327,
+    "score": 7.67,
+    "members": 72660,
     "image": "https://cdn.myanimelist.net/images/anime/1993/156385.webp"
   },
   {
-    "id": 313,
+    "id": 298,
     "anime": "Needy Girl Overdose",
     "season": 1,
     "episode": 10,
@@ -2961,11 +2817,11 @@
     ],
     "malId": 62913,
     "score": 6.74,
-    "members": 58132,
+    "members": 58301,
     "image": "https://cdn.myanimelist.net/images/anime/1755/154935.webp"
   },
   {
-    "id": 301,
+    "id": 286,
     "anime": "Scum of the Brave",
     "season": 1,
     "episode": 22,
@@ -2977,11 +2833,11 @@
     ],
     "malId": 61217,
     "score": 6.51,
-    "members": 31442,
+    "members": 31504,
     "image": "https://cdn.myanimelist.net/images/anime/1821/154043.webp"
   },
   {
-    "id": 269,
+    "id": 254,
     "anime": "Manul no Yuube",
     "season": 1,
     "episode": 396,
@@ -2997,7 +2853,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1980/96936.webp"
   },
   {
-    "id": 249,
+    "id": 234,
     "anime": "Shin Chan",
     "season": 1,
     "episode": 1783,
@@ -3009,11 +2865,11 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 94635,
+    "members": 94638,
     "image": "https://cdn.myanimelist.net/images/anime/10/59897.webp"
   },
   {
-    "id": 209,
+    "id": 194,
     "anime": "Bono Bono",
     "season": 1,
     "episode": 532,
@@ -3029,7 +2885,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1686/149949.webp"
   },
   {
-    "id": 245,
+    "id": 230,
     "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
     "season": 1,
     "episode": 10,
@@ -3041,11 +2897,11 @@
     ],
     "malId": 57466,
     "score": 7.84,
-    "members": 80103,
+    "members": 80285,
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054.webp"
   },
   {
-    "id": 257,
+    "id": 242,
     "anime": "Case Closed",
     "season": 1,
     "episode": 1588,
@@ -3058,11 +2914,11 @@
     ],
     "malId": 235,
     "score": 8.18,
-    "members": 379168,
+    "members": 379188,
     "image": "https://cdn.myanimelist.net/images/anime/7/75199.webp"
   },
   {
-    "id": 241,
+    "id": 226,
     "anime": "Welcome to Demon School! Iruma-kun Season 4",
     "season": 4,
     "episode": 10,
@@ -3074,11 +2930,11 @@
     ],
     "malId": 60310,
     "score": 8.15,
-    "members": 79916,
+    "members": 80154,
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048.webp"
   },
   {
-    "id": 205,
+    "id": 190,
     "anime": "Ninjala (TV)",
     "season": 1,
     "episode": 231,
@@ -3090,11 +2946,11 @@
     ],
     "malId": 50418,
     "score": 5.58,
-    "members": 3906,
+    "members": 3909,
     "image": "https://cdn.myanimelist.net/images/anime/1552/119871.webp"
   },
   {
-    "id": 197,
+    "id": 182,
     "anime": "Shimajirou no Wow!",
     "season": 1,
     "episode": 741,
@@ -3110,7 +2966,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/50737.webp"
   },
   {
-    "id": 189,
+    "id": 174,
     "anime": "Oshiri Tantei 10th Season",
     "season": 10,
     "episode": 10,
@@ -3126,7 +2982,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1098/156208.webp"
   },
   {
-    "id": 201,
+    "id": 186,
     "anime": "Rilakkuma",
     "season": 1,
     "episode": 10,
@@ -3137,12 +2993,12 @@
       "Crunchyroll"
     ],
     "malId": 60153,
-    "score": 6.27,
-    "members": 3064,
+    "score": 6.28,
+    "members": 3068,
     "image": "https://cdn.myanimelist.net/images/anime/1705/158571.webp"
   },
   {
-    "id": 193,
+    "id": 178,
     "anime": "Nezumi-kun no Chokki (TV)",
     "season": 1,
     "episode": 10,
@@ -3158,7 +3014,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1515/152058.webp"
   },
   {
-    "id": 221,
+    "id": 206,
     "anime": "Yowayowa Sensei",
     "season": 1,
     "episode": 9,
@@ -3169,12 +3025,12 @@
       "Crunchyroll"
     ],
     "malId": 60444,
-    "score": 6.46,
-    "members": 39841,
+    "score": 6.47,
+    "members": 39989,
     "image": "https://cdn.myanimelist.net/images/anime/1364/155774.webp"
   },
   {
-    "id": 237,
+    "id": 222,
     "anime": "Kill Blue",
     "season": 1,
     "episode": 9,
@@ -3186,11 +3042,11 @@
     ],
     "malId": 62391,
     "score": 7.44,
-    "members": 60703,
+    "members": 61153,
     "image": "https://cdn.myanimelist.net/images/anime/1899/156600.webp"
   },
   {
-    "id": 253,
+    "id": 238,
     "anime": "Daemons of the Shadow Realm",
     "season": 1,
     "episode": 10,
@@ -3202,11 +3058,11 @@
     ],
     "malId": 62001,
     "score": 7.93,
-    "members": 197813,
+    "members": 198551,
     "image": "https://cdn.myanimelist.net/images/anime/1171/156397.webp"
   },
   {
-    "id": 217,
+    "id": 202,
     "anime": "Mao",
     "season": 1,
     "episode": 10,
@@ -3218,11 +3074,11 @@
     ],
     "malId": 62048,
     "score": 7.03,
-    "members": 33027,
+    "members": 33122,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156386.webp"
   },
   {
-    "id": 225,
+    "id": 218,
     "anime": "Botan Kamiina Fully Blossoms When Drunk",
     "season": 1,
     "episode": 9,
@@ -3234,11 +3090,11 @@
     ],
     "malId": 61186,
     "score": 7.93,
-    "members": 45685,
+    "members": 45913,
     "image": "https://cdn.myanimelist.net/images/anime/1026/155965.webp"
   },
   {
-    "id": 213,
+    "id": 198,
     "anime": "Hokuto no Ken: Fist of the North Star",
     "season": 1,
     "episode": 9,
@@ -3250,11 +3106,11 @@
     ],
     "malId": 56646,
     "score": 6.41,
-    "members": 13719,
+    "members": 13730,
     "image": "https://cdn.myanimelist.net/images/anime/1581/156641.webp"
   },
   {
-    "id": 229,
+    "id": 210,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 9,
@@ -3266,11 +3122,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 233,
+    "id": 214,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 9,
@@ -3282,11 +3138,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 149,
+    "id": 134,
     "anime": "Sore Ike! Anpanman",
     "season": 1,
     "episode": 1967,
@@ -3302,7 +3158,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1902/111797.webp"
   },
   {
-    "id": 153,
+    "id": 138,
     "anime": "Beyblade X",
     "season": 1,
     "episode": 140,
@@ -3314,11 +3170,11 @@
     ],
     "malId": 56566,
     "score": 6.88,
-    "members": 7324,
+    "members": 7326,
     "image": "https://cdn.myanimelist.net/images/anime/1394/145458.webp"
   },
   {
-    "id": 177,
+    "id": 162,
     "anime": "Pokémon Horizons: The Series",
     "season": 1,
     "episode": 165,
@@ -3330,11 +3186,11 @@
     ],
     "malId": 53876,
     "score": 7.41,
-    "members": 42591,
+    "members": 42611,
     "image": "https://cdn.myanimelist.net/images/anime/1703/137216.webp"
   },
   {
-    "id": 173,
+    "id": 158,
     "anime": "Doraemon (2005)",
     "season": 1,
     "episode": 1103,
@@ -3346,11 +3202,11 @@
     ],
     "malId": 8687,
     "score": 7.78,
-    "members": 23499,
+    "members": 23501,
     "image": "https://cdn.myanimelist.net/images/anime/6/23935.webp"
   },
   {
-    "id": 169,
+    "id": 154,
     "anime": "Chiikawa",
     "season": 1,
     "episode": 219,
@@ -3362,11 +3218,11 @@
     ],
     "malId": 50250,
     "score": 8.6,
-    "members": 22193,
+    "members": 22244,
     "image": "https://cdn.myanimelist.net/images/anime/1783/121944.webp"
   },
   {
-    "id": 185,
+    "id": 170,
     "anime": "That Time I Got Reincarnated as a Slime Season 4",
     "season": 4,
     "episode": 10,
@@ -3378,11 +3234,11 @@
     ],
     "malId": 59970,
     "score": 8.11,
-    "members": 210853,
+    "members": 211359,
     "image": "https://cdn.myanimelist.net/images/anime/1695/156389.webp"
   },
   {
-    "id": 157,
+    "id": 142,
     "anime": "The Drops of God",
     "season": 1,
     "episode": 9,
@@ -3393,12 +3249,12 @@
       "Crunchyroll"
     ],
     "malId": 62981,
-    "score": 5.94,
-    "members": 8727,
+    "score": 5.93,
+    "members": 8750,
     "image": "https://cdn.myanimelist.net/images/anime/1045/155698.webp"
   },
   {
-    "id": 165,
+    "id": 150,
     "anime": "Snowball Earth",
     "season": 1,
     "episode": 10,
@@ -3410,11 +3266,11 @@
     ],
     "malId": 62068,
     "score": 6.65,
-    "members": 21189,
+    "members": 21290,
     "image": "https://cdn.myanimelist.net/images/anime/1786/156390.webp"
   },
   {
-    "id": 181,
+    "id": 166,
     "anime": "Petals of Reincarnation",
     "season": 1,
     "episode": 10,
@@ -3425,12 +3281,12 @@
       "Crunchyroll"
     ],
     "malId": 59443,
-    "score": 5.94,
-    "members": 49914,
+    "score": 5.93,
+    "members": 49994,
     "image": "https://cdn.myanimelist.net/images/anime/1064/155042.webp"
   },
   {
-    "id": 161,
+    "id": 146,
     "anime": "A Hundred Scenes of Awajima",
     "season": 1,
     "episode": 9,
@@ -3441,12 +3297,12 @@
       "Crunchyroll"
     ],
     "malId": 58820,
-    "score": 6.85,
-    "members": 18309,
+    "score": 6.84,
+    "members": 18347,
     "image": "https://cdn.myanimelist.net/images/anime/1594/157161.webp"
   },
   {
-    "id": 145,
+    "id": 130,
     "anime": "Komekami! Girls",
     "season": 1,
     "episode": 9,
@@ -3458,11 +3314,11 @@
     ],
     "malId": 63709,
     "score": 5.29,
-    "members": 1825,
+    "members": 1830,
     "image": "https://cdn.myanimelist.net/images/anime/1392/156024.webp"
   },
   {
-    "id": 126,
+    "id": 111,
     "anime": "The Warrior Princess and the Barbaric King",
     "season": 1,
     "episode": 9,
@@ -3474,43 +3330,43 @@
     ],
     "malId": 60028,
     "score": 6.81,
-    "members": 85849,
+    "members": 86150,
     "image": "https://cdn.myanimelist.net/images/anime/1229/155022.webp"
   },
   {
-    "id": 137,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 10,
-    "title": "Countdown ",
-    "date": "2026-06-04",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
-    "id": 141,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 10,
-    "title": "Countdown ",
-    "date": "2026-06-04",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
     "id": 122,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 10,
+    "title": "Countdown ",
+    "date": "2026-06-04",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 126,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 10,
+    "title": "Countdown ",
+    "date": "2026-06-04",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 107,
     "anime": "Kujima: Why Sing, When You Can Warble?",
     "season": 1,
     "episode": 9,
@@ -3521,12 +3377,12 @@
       "Crunchyroll"
     ],
     "malId": 58832,
-    "score": 6.3,
-    "members": 9904,
+    "score": 6.31,
+    "members": 9921,
     "image": "https://cdn.myanimelist.net/images/anime/1352/155195.webp"
   },
   {
-    "id": 130,
+    "id": 115,
     "anime": "The Ramparts of Ice",
     "season": 1,
     "episode": 10,
@@ -3537,12 +3393,12 @@
       "Crunchyroll"
     ],
     "malId": 60852,
-    "score": 7.97,
-    "members": 98960,
+    "score": 7.98,
+    "members": 99525,
     "image": "https://cdn.myanimelist.net/images/anime/1565/154933.webp"
   },
   {
-    "id": 133,
+    "id": 118,
     "anime": "Smoking Behind the Supermarket with You",
     "season": 1,
     "episode": 1,
@@ -3554,11 +3410,11 @@
     ],
     "malId": 62076,
     "score": 8.56,
-    "members": 105294,
+    "members": 108140,
     "image": "https://cdn.myanimelist.net/images/anime/1768/156339.webp"
   },
   {
-    "id": 114,
+    "id": 99,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 8,
@@ -3569,12 +3425,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 118,
+    "id": 103,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 8,
@@ -3585,12 +3441,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 72,
+    "id": 57,
     "anime": "Chibi Godzilla no Gyakushuu 3rd Season",
     "season": 3,
     "episode": 49,
@@ -3606,7 +3462,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1859/150334.webp"
   },
   {
-    "id": 104,
+    "id": 89,
     "anime": "Classroom of the Elite 4th Season: Second Year, First Semester",
     "season": 4,
     "episode": 10,
@@ -3618,11 +3474,11 @@
     ],
     "malId": 59708,
     "score": 7.99,
-    "members": 216055,
+    "members": 216615,
     "image": "https://cdn.myanimelist.net/images/anime/1176/153626.webp"
   },
   {
-    "id": 92,
+    "id": 77,
     "anime": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
     "season": 3,
     "episode": 10,
@@ -3634,11 +3490,11 @@
     ],
     "malId": 62512,
     "score": 6.53,
-    "members": 28489,
+    "members": 28575,
     "image": "https://cdn.myanimelist.net/images/anime/1905/156697.webp"
   },
   {
-    "id": 108,
+    "id": 93,
     "anime": "Re:ZERO -Starting Life in Another World- Season 4",
     "season": 4,
     "episode": 9,
@@ -3650,11 +3506,11 @@
     ],
     "malId": 61316,
     "score": 9.2,
-    "members": 266947,
+    "members": 268504,
     "image": "https://cdn.myanimelist.net/images/anime/1540/155824.webp"
   },
   {
-    "id": 96,
+    "id": 81,
     "anime": "The Beginning After the End Season 2",
     "season": 2,
     "episode": 10,
@@ -3665,12 +3521,12 @@
       "Crunchyroll"
     ],
     "malId": 61831,
-    "score": 5.84,
-    "members": 68289,
+    "score": 5.85,
+    "members": 68506,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156028.webp"
   },
   {
-    "id": 100,
+    "id": 85,
     "anime": "Gals Can't Be Kind to Otaku!?",
     "season": 1,
     "episode": 9,
@@ -3682,11 +3538,11 @@
     ],
     "malId": 62604,
     "score": 7.57,
-    "members": 97363,
+    "members": 97785,
     "image": "https://cdn.myanimelist.net/images/anime/1956/155456.webp"
   },
   {
-    "id": 76,
+    "id": 61,
     "anime": "Eren the Southpaw",
     "season": 1,
     "episode": 9,
@@ -3698,11 +3554,11 @@
     ],
     "malId": 53732,
     "score": 6.09,
-    "members": 18398,
+    "members": 18442,
     "image": "https://cdn.myanimelist.net/images/anime/1015/156388.webp"
   },
   {
-    "id": 80,
+    "id": 65,
     "anime": "Pardon the Intrusion, I'm Home!",
     "season": 1,
     "episode": 9,
@@ -3713,12 +3569,12 @@
       "Crunchyroll"
     ],
     "malId": 63014,
-    "score": 6.46,
-    "members": 20113,
+    "score": 6.47,
+    "members": 20197,
     "image": "https://cdn.myanimelist.net/images/anime/1199/156106.webp"
   },
   {
-    "id": 84,
+    "id": 69,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 9,
@@ -3730,11 +3586,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 88,
+    "id": 73,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 9,
@@ -3746,11 +3602,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 32,
+    "id": 17,
     "anime": "Fushigi Dagashiya: Zenitendou",
     "season": 1,
     "episode": 300,
@@ -3762,11 +3618,11 @@
     ],
     "malId": 42295,
     "score": 6.15,
-    "members": 2434,
+    "members": 2436,
     "image": "https://cdn.myanimelist.net/images/anime/1602/150098.webp"
   },
   {
-    "id": 27,
+    "id": 12,
     "anime": "Origami Ninja Koyankinte",
     "season": 1,
     "episode": 322,
@@ -3782,7 +3638,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1860/106477.webp"
   },
   {
-    "id": 37,
+    "id": 22,
     "anime": "Beyond Twilight",
     "season": 1,
     "episode": 9,
@@ -3793,12 +3649,12 @@
       "Crunchyroll"
     ],
     "malId": 63469,
-    "score": 5.18,
-    "members": 3576,
+    "score": 5.19,
+    "members": 3580,
     "image": "https://cdn.myanimelist.net/images/anime/1589/156720.webp"
   },
   {
-    "id": 47,
+    "id": 32,
     "anime": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
     "season": 2,
     "episode": 9,
@@ -3810,11 +3666,11 @@
     ],
     "malId": 61931,
     "score": 7.11,
-    "members": 41590,
+    "members": 41712,
     "image": "https://cdn.myanimelist.net/images/anime/1916/155657.webp"
   },
   {
-    "id": 57,
+    "id": 42,
     "anime": "I Want to End This Love Game",
     "season": 1,
     "episode": 8,
@@ -3826,11 +3682,11 @@
     ],
     "malId": 61839,
     "score": 7.31,
-    "members": 78716,
+    "members": 79137,
     "image": "https://cdn.myanimelist.net/images/anime/1879/155958.webp"
   },
   {
-    "id": 62,
+    "id": 47,
     "anime": "Marriagetoxin",
     "season": 1,
     "episode": 9,
@@ -3842,11 +3698,11 @@
     ],
     "malId": 62601,
     "score": 7.52,
-    "members": 122363,
+    "members": 122967,
     "image": "https://cdn.myanimelist.net/images/anime/1927/154309.webp"
   },
   {
-    "id": 42,
+    "id": 27,
     "anime": "Even a Replica Can Fall in Love",
     "season": 1,
     "episode": 9,
@@ -3858,11 +3714,11 @@
     ],
     "malId": 61013,
     "score": 7,
-    "members": 26187,
+    "members": 26298,
     "image": "https://cdn.myanimelist.net/images/anime/1148/155671.webp"
   },
   {
-    "id": 67,
+    "id": 52,
     "anime": "I Made Friends with the Second Prettiest Girl in My Class",
     "season": 1,
     "episode": 9,
@@ -3874,11 +3730,11 @@
     ],
     "malId": 56734,
     "score": 7.91,
-    "members": 126426,
+    "members": 127129,
     "image": "https://cdn.myanimelist.net/images/anime/1423/155713.webp"
   },
   {
-    "id": 52,
+    "id": 37,
     "anime": "Liar Game",
     "season": 1,
     "episode": 9,
@@ -3890,8 +3746,8 @@
     ],
     "malId": 62331,
     "score": 6.33,
-    "members": 67852,
-    "image": "https://cdn.myanimelist.net/images/anime/1607/156078.webp"
+    "members": 68072,
+    "image": "https://cdn.myanimelist.net/images/anime/1984/158634.webp"
   },
   {
     "id": 7,
@@ -3906,56 +3762,8 @@
     ],
     "malId": 37096,
     "score": 6.1,
-    "members": 2078,
+    "members": 2079,
     "image": "https://cdn.myanimelist.net/images/anime/1460/149962.webp"
-  },
-  {
-    "id": 17,
-    "anime": "Farming Life in Another World Season 2",
-    "season": 2,
-    "episode": 9,
-    "title": "Futatabi Nichijou ",
-    "date": "2026-06-01",
-    "releaseTime": "08:00 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62146,
-    "score": 7.42,
-    "members": 77159,
-    "image": "https://cdn.myanimelist.net/images/anime/1656/156369.webp"
-  },
-  {
-    "id": 22,
-    "anime": "Witch Hat Atelier",
-    "season": 1,
-    "episode": 9,
-    "title": "Kuro ni Shizumu Akumu ",
-    "date": "2026-06-01",
-    "releaseTime": "08:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 51553,
-    "score": 8.67,
-    "members": 345756,
-    "image": "https://cdn.myanimelist.net/images/anime/1726/155542.webp"
-  },
-  {
-    "id": 12,
-    "anime": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-    "season": 1,
-    "episode": 9,
-    "title": "Ponkotsu to JK no Natsuyasumi to Nigakki Shonichi no Hanashi ",
-    "date": "2026-06-01",
-    "releaseTime": "08:54 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 61425,
-    "score": 7.58,
-    "members": 50787,
-    "image": "https://cdn.myanimelist.net/images/anime/1484/155726.webp"
   },
   {
     "id": 2,
@@ -3974,7 +3782,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1433/134811.webp"
   },
   {
-    "id": 320,
+    "id": 305,
     "anime": "Wistoria: Wand and Sword Season 2",
     "season": 2,
     "episode": 8,
@@ -3986,11 +3794,11 @@
     ],
     "malId": 59983,
     "score": 8.25,
-    "members": 167712,
+    "members": 168588,
     "image": "https://cdn.myanimelist.net/images/anime/1190/155788.webp"
   },
   {
-    "id": 308,
+    "id": 293,
     "anime": "Mission: Yozakura Family Season 2",
     "season": 2,
     "episode": 8,
@@ -4001,12 +3809,12 @@
       "Crunchyroll"
     ],
     "malId": 60055,
-    "score": 7.64,
-    "members": 40583,
+    "score": 7.65,
+    "members": 40695,
     "image": "https://cdn.myanimelist.net/images/anime/1230/155783.webp"
   },
   {
-    "id": 292,
+    "id": 277,
     "anime": "Ace of Diamond Act II Season 2",
     "season": 2,
     "episode": 9,
@@ -4018,11 +3826,11 @@
     ],
     "malId": 58877,
     "score": 8.12,
-    "members": 20161,
+    "members": 20224,
     "image": "https://cdn.myanimelist.net/images/anime/1594/154245.webp"
   },
   {
-    "id": 284,
+    "id": 269,
     "anime": "Little Miss Maruko",
     "season": 1,
     "episode": 1639,
@@ -4038,7 +3846,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1678/153148.webp"
   },
   {
-    "id": 288,
+    "id": 273,
     "anime": "Mrs. Sazae",
     "season": 1,
     "episode": 2957,
@@ -4050,11 +3858,11 @@
     ],
     "malId": 2406,
     "score": 6.15,
-    "members": 10464,
+    "members": 10467,
     "image": "https://cdn.myanimelist.net/images/anime/1008/98996.webp"
   },
   {
-    "id": 260,
+    "id": 245,
     "anime": "Kumarba Season 3",
     "season": 3,
     "episode": 8,
@@ -4070,7 +3878,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1148/155162.webp"
   },
   {
-    "id": 264,
+    "id": 249,
     "anime": "Shou 3 Ashibe QQ Goma-chan",
     "season": 1,
     "episode": 8,
@@ -4086,7 +3894,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1899/155697.webp"
   },
   {
-    "id": 276,
+    "id": 261,
     "anime": "Koupen-chan",
     "season": 1,
     "episode": 61,
@@ -4098,11 +3906,11 @@
     ],
     "malId": 60534,
     "score": 7.55,
-    "members": 6891,
+    "members": 6897,
     "image": "https://cdn.myanimelist.net/images/anime/1533/146981.webp"
   },
   {
-    "id": 280,
+    "id": 265,
     "anime": "Star Detective Precure!",
     "season": 1,
     "episode": 18,
@@ -4114,11 +3922,11 @@
     ],
     "malId": 63042,
     "score": 7.59,
-    "members": 6912,
+    "members": 6932,
     "image": "https://cdn.myanimelist.net/images/anime/1706/154944.webp"
   },
   {
-    "id": 296,
+    "id": 281,
     "anime": "Digimon Beatbreak",
     "season": 1,
     "episode": 35,
@@ -4129,12 +3937,12 @@
       "Crunchyroll"
     ],
     "malId": 61269,
-    "score": 7.13,
-    "members": 27135,
+    "score": 7.14,
+    "members": 27152,
     "image": "https://cdn.myanimelist.net/images/anime/1776/151242.webp"
   },
   {
-    "id": 272,
+    "id": 257,
     "anime": "Onegai AiPri",
     "season": 1,
     "episode": 9,
@@ -4146,11 +3954,11 @@
     ],
     "malId": 63352,
     "score": 5.92,
-    "members": 1225,
+    "members": 1226,
     "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
   },
   {
-    "id": 324,
+    "id": 309,
     "anime": "One Piece",
     "season": 1,
     "episode": 1390,
@@ -4163,11 +3971,11 @@
     ],
     "malId": 21,
     "score": 8.73,
-    "members": 2696599,
+    "members": 2697003,
     "image": "https://cdn.myanimelist.net/images/anime/1244/138851.webp"
   },
   {
-    "id": 304,
+    "id": 289,
     "anime": "The Classroom of a Black Cat and a Witch",
     "season": 1,
     "episode": 8,
@@ -4178,12 +3986,12 @@
       "Crunchyroll"
     ],
     "malId": 62171,
-    "score": 6.53,
-    "members": 32605,
+    "score": 6.52,
+    "members": 32772,
     "image": "https://cdn.myanimelist.net/images/anime/1716/153989.webp"
   },
   {
-    "id": 316,
+    "id": 301,
     "anime": "Agents of the Four Seasons: Dance of Spring",
     "season": 1,
     "episode": 10,
@@ -4194,12 +4002,12 @@
       "Crunchyroll"
     ],
     "malId": 61443,
-    "score": 7.68,
-    "members": 72327,
+    "score": 7.67,
+    "members": 72660,
     "image": "https://cdn.myanimelist.net/images/anime/1993/156385.webp"
   },
   {
-    "id": 312,
+    "id": 297,
     "anime": "Needy Girl Overdose",
     "season": 1,
     "episode": 9,
@@ -4211,11 +4019,11 @@
     ],
     "malId": 62913,
     "score": 6.74,
-    "members": 58132,
+    "members": 58301,
     "image": "https://cdn.myanimelist.net/images/anime/1755/154935.webp"
   },
   {
-    "id": 300,
+    "id": 285,
     "anime": "Scum of the Brave",
     "season": 1,
     "episode": 21,
@@ -4227,11 +4035,11 @@
     ],
     "malId": 61217,
     "score": 6.51,
-    "members": 31442,
+    "members": 31504,
     "image": "https://cdn.myanimelist.net/images/anime/1821/154043.webp"
   },
   {
-    "id": 268,
+    "id": 253,
     "anime": "Manul no Yuube",
     "season": 1,
     "episode": 395,
@@ -4247,7 +4055,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1980/96936.webp"
   },
   {
-    "id": 248,
+    "id": 233,
     "anime": "Shin Chan",
     "season": 1,
     "episode": 1782,
@@ -4259,11 +4067,11 @@
     ],
     "malId": 966,
     "score": 7.82,
-    "members": 94635,
+    "members": 94638,
     "image": "https://cdn.myanimelist.net/images/anime/10/59897.webp"
   },
   {
-    "id": 208,
+    "id": 193,
     "anime": "Bono Bono",
     "season": 1,
     "episode": 531,
@@ -4279,7 +4087,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1686/149949.webp"
   },
   {
-    "id": 244,
+    "id": 229,
     "anime": "Ascendance of a Bookworm: Adopted Daughter of an Archduke",
     "season": 1,
     "episode": 9,
@@ -4291,11 +4099,11 @@
     ],
     "malId": 57466,
     "score": 7.84,
-    "members": 80103,
+    "members": 80285,
     "image": "https://cdn.myanimelist.net/images/anime/1371/155054.webp"
   },
   {
-    "id": 256,
+    "id": 241,
     "anime": "Case Closed",
     "season": 1,
     "episode": 1587,
@@ -4308,11 +4116,11 @@
     ],
     "malId": 235,
     "score": 8.18,
-    "members": 379168,
+    "members": 379188,
     "image": "https://cdn.myanimelist.net/images/anime/7/75199.webp"
   },
   {
-    "id": 240,
+    "id": 225,
     "anime": "Welcome to Demon School! Iruma-kun Season 4",
     "season": 4,
     "episode": 9,
@@ -4324,11 +4132,11 @@
     ],
     "malId": 60310,
     "score": 8.15,
-    "members": 79916,
+    "members": 80154,
     "image": "https://cdn.myanimelist.net/images/anime/1434/154048.webp"
   },
   {
-    "id": 204,
+    "id": 189,
     "anime": "Ninjala (TV)",
     "season": 1,
     "episode": 230,
@@ -4340,11 +4148,11 @@
     ],
     "malId": 50418,
     "score": 5.58,
-    "members": 3906,
+    "members": 3909,
     "image": "https://cdn.myanimelist.net/images/anime/1552/119871.webp"
   },
   {
-    "id": 196,
+    "id": 181,
     "anime": "Shimajirou no Wow!",
     "season": 1,
     "episode": 740,
@@ -4360,7 +4168,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/9/50737.webp"
   },
   {
-    "id": 188,
+    "id": 173,
     "anime": "Oshiri Tantei 10th Season",
     "season": 10,
     "episode": 9,
@@ -4376,7 +4184,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1098/156208.webp"
   },
   {
-    "id": 200,
+    "id": 185,
     "anime": "Rilakkuma",
     "season": 1,
     "episode": 9,
@@ -4387,12 +4195,12 @@
       "Crunchyroll"
     ],
     "malId": 60153,
-    "score": 6.27,
-    "members": 3064,
+    "score": 6.28,
+    "members": 3068,
     "image": "https://cdn.myanimelist.net/images/anime/1705/158571.webp"
   },
   {
-    "id": 192,
+    "id": 177,
     "anime": "Nezumi-kun no Chokki (TV)",
     "season": 1,
     "episode": 9,
@@ -4408,7 +4216,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1515/152058.webp"
   },
   {
-    "id": 220,
+    "id": 205,
     "anime": "Yowayowa Sensei",
     "season": 1,
     "episode": 8,
@@ -4419,12 +4227,12 @@
       "Crunchyroll"
     ],
     "malId": 60444,
-    "score": 6.46,
-    "members": 39841,
+    "score": 6.47,
+    "members": 39989,
     "image": "https://cdn.myanimelist.net/images/anime/1364/155774.webp"
   },
   {
-    "id": 236,
+    "id": 221,
     "anime": "Kill Blue",
     "season": 1,
     "episode": 8,
@@ -4436,11 +4244,11 @@
     ],
     "malId": 62391,
     "score": 7.44,
-    "members": 60703,
+    "members": 61153,
     "image": "https://cdn.myanimelist.net/images/anime/1899/156600.webp"
   },
   {
-    "id": 252,
+    "id": 237,
     "anime": "Daemons of the Shadow Realm",
     "season": 1,
     "episode": 9,
@@ -4452,11 +4260,11 @@
     ],
     "malId": 62001,
     "score": 7.93,
-    "members": 197813,
+    "members": 198551,
     "image": "https://cdn.myanimelist.net/images/anime/1171/156397.webp"
   },
   {
-    "id": 216,
+    "id": 201,
     "anime": "Mao",
     "season": 1,
     "episode": 9,
@@ -4468,11 +4276,11 @@
     ],
     "malId": 62048,
     "score": 7.03,
-    "members": 33027,
+    "members": 33122,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156386.webp"
   },
   {
-    "id": 224,
+    "id": 217,
     "anime": "Botan Kamiina Fully Blossoms When Drunk",
     "season": 1,
     "episode": 8,
@@ -4484,11 +4292,11 @@
     ],
     "malId": 61186,
     "score": 7.93,
-    "members": 45685,
+    "members": 45913,
     "image": "https://cdn.myanimelist.net/images/anime/1026/155965.webp"
   },
   {
-    "id": 212,
+    "id": 197,
     "anime": "Hokuto no Ken: Fist of the North Star",
     "season": 1,
     "episode": 8,
@@ -4500,11 +4308,11 @@
     ],
     "malId": 56646,
     "score": 6.41,
-    "members": 13719,
+    "members": 13730,
     "image": "https://cdn.myanimelist.net/images/anime/1581/156641.webp"
   },
   {
-    "id": 228,
+    "id": 209,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 8,
@@ -4516,11 +4324,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 232,
+    "id": 213,
     "anime": "Rent-a-Girlfriend Season 5",
     "season": 5,
     "episode": 8,
@@ -4532,11 +4340,11 @@
     ],
     "malId": 62485,
     "score": 5.77,
-    "members": 45774,
+    "members": 45906,
     "image": "https://cdn.myanimelist.net/images/anime/1393/156075.webp"
   },
   {
-    "id": 148,
+    "id": 133,
     "anime": "Sore Ike! Anpanman",
     "season": 1,
     "episode": 1966,
@@ -4552,7 +4360,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1902/111797.webp"
   },
   {
-    "id": 152,
+    "id": 137,
     "anime": "Beyblade X",
     "season": 1,
     "episode": 139,
@@ -4564,11 +4372,11 @@
     ],
     "malId": 56566,
     "score": 6.88,
-    "members": 7324,
+    "members": 7326,
     "image": "https://cdn.myanimelist.net/images/anime/1394/145458.webp"
   },
   {
-    "id": 176,
+    "id": 161,
     "anime": "Pokémon Horizons: The Series",
     "season": 1,
     "episode": 164,
@@ -4580,11 +4388,11 @@
     ],
     "malId": 53876,
     "score": 7.41,
-    "members": 42591,
+    "members": 42611,
     "image": "https://cdn.myanimelist.net/images/anime/1703/137216.webp"
   },
   {
-    "id": 172,
+    "id": 157,
     "anime": "Doraemon (2005)",
     "season": 1,
     "episode": 1102,
@@ -4596,11 +4404,11 @@
     ],
     "malId": 8687,
     "score": 7.78,
-    "members": 23499,
+    "members": 23501,
     "image": "https://cdn.myanimelist.net/images/anime/6/23935.webp"
   },
   {
-    "id": 168,
+    "id": 153,
     "anime": "Chiikawa",
     "season": 1,
     "episode": 218,
@@ -4612,11 +4420,11 @@
     ],
     "malId": 50250,
     "score": 8.6,
-    "members": 22193,
+    "members": 22244,
     "image": "https://cdn.myanimelist.net/images/anime/1783/121944.webp"
   },
   {
-    "id": 184,
+    "id": 169,
     "anime": "That Time I Got Reincarnated as a Slime Season 4",
     "season": 4,
     "episode": 9,
@@ -4628,11 +4436,11 @@
     ],
     "malId": 59970,
     "score": 8.11,
-    "members": 210853,
+    "members": 211359,
     "image": "https://cdn.myanimelist.net/images/anime/1695/156389.webp"
   },
   {
-    "id": 156,
+    "id": 141,
     "anime": "The Drops of God",
     "season": 1,
     "episode": 8,
@@ -4643,12 +4451,12 @@
       "Crunchyroll"
     ],
     "malId": 62981,
-    "score": 5.94,
-    "members": 8727,
+    "score": 5.93,
+    "members": 8750,
     "image": "https://cdn.myanimelist.net/images/anime/1045/155698.webp"
   },
   {
-    "id": 164,
+    "id": 149,
     "anime": "Snowball Earth",
     "season": 1,
     "episode": 9,
@@ -4660,11 +4468,11 @@
     ],
     "malId": 62068,
     "score": 6.65,
-    "members": 21189,
+    "members": 21290,
     "image": "https://cdn.myanimelist.net/images/anime/1786/156390.webp"
   },
   {
-    "id": 180,
+    "id": 165,
     "anime": "Petals of Reincarnation",
     "season": 1,
     "episode": 9,
@@ -4675,12 +4483,12 @@
       "Crunchyroll"
     ],
     "malId": 59443,
-    "score": 5.94,
-    "members": 49914,
+    "score": 5.93,
+    "members": 49994,
     "image": "https://cdn.myanimelist.net/images/anime/1064/155042.webp"
   },
   {
-    "id": 160,
+    "id": 145,
     "anime": "A Hundred Scenes of Awajima",
     "season": 1,
     "episode": 8,
@@ -4691,12 +4499,12 @@
       "Crunchyroll"
     ],
     "malId": 58820,
-    "score": 6.85,
-    "members": 18309,
+    "score": 6.84,
+    "members": 18347,
     "image": "https://cdn.myanimelist.net/images/anime/1594/157161.webp"
   },
   {
-    "id": 144,
+    "id": 129,
     "anime": "Komekami! Girls",
     "season": 1,
     "episode": 8,
@@ -4708,11 +4516,11 @@
     ],
     "malId": 63709,
     "score": 5.29,
-    "members": 1825,
+    "members": 1830,
     "image": "https://cdn.myanimelist.net/images/anime/1392/156024.webp"
   },
   {
-    "id": 111,
+    "id": 96,
     "anime": "Metal Cardbot W",
     "season": 1,
     "episode": 26,
@@ -4728,7 +4536,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1332/154527.webp"
   },
   {
-    "id": 112,
+    "id": 97,
     "anime": "Metal Cardbot W",
     "season": 1,
     "episode": 26,
@@ -4744,7 +4552,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1332/154527.webp"
   },
   {
-    "id": 125,
+    "id": 110,
     "anime": "The Warrior Princess and the Barbaric King",
     "season": 1,
     "episode": 8,
@@ -4756,43 +4564,43 @@
     ],
     "malId": 60028,
     "score": 6.81,
-    "members": 85849,
+    "members": 86150,
     "image": "https://cdn.myanimelist.net/images/anime/1229/155022.webp"
   },
   {
-    "id": 136,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 9,
-    "title": "Wanting Everything",
-    "date": "2026-05-28",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
-    "id": 140,
-    "anime": "Dr. Stone: Science Future Part 3",
-    "season": 3,
-    "episode": 9,
-    "title": "Wanting Everything",
-    "date": "2026-05-28",
-    "releaseTime": "07:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62568,
-    "score": 8.29,
-    "members": 154909,
-    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
-  },
-  {
     "id": 121,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 9,
+    "title": "Wanting Everything",
+    "date": "2026-05-28",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 125,
+    "anime": "Dr. Stone: Science Future Part 3",
+    "season": 3,
+    "episode": 9,
+    "title": "Wanting Everything",
+    "date": "2026-05-28",
+    "releaseTime": "07:30 PM",
+    "streaming": [
+      "Crunchyroll"
+    ],
+    "malId": 62568,
+    "score": 8.3,
+    "members": 155377,
+    "image": "https://cdn.myanimelist.net/images/anime/1773/155779.webp"
+  },
+  {
+    "id": 106,
     "anime": "Kujima: Why Sing, When You Can Warble?",
     "season": 1,
     "episode": 8,
@@ -4803,12 +4611,12 @@
       "Crunchyroll"
     ],
     "malId": 58832,
-    "score": 6.3,
-    "members": 9904,
+    "score": 6.31,
+    "members": 9921,
     "image": "https://cdn.myanimelist.net/images/anime/1352/155195.webp"
   },
   {
-    "id": 129,
+    "id": 114,
     "anime": "The Ramparts of Ice",
     "season": 1,
     "episode": 9,
@@ -4819,12 +4627,12 @@
       "Crunchyroll"
     ],
     "malId": 60852,
-    "score": 7.97,
-    "members": 98960,
+    "score": 7.98,
+    "members": 99525,
     "image": "https://cdn.myanimelist.net/images/anime/1565/154933.webp"
   },
   {
-    "id": 113,
+    "id": 98,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 7,
@@ -4835,12 +4643,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 117,
+    "id": 102,
     "anime": "Candy Caries",
     "season": 1,
     "episode": 7,
@@ -4851,12 +4659,12 @@
       "Crunchyroll"
     ],
     "malId": 63276,
-    "score": 6.51,
-    "members": 1010,
+    "score": 6.53,
+    "members": 1014,
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   {
-    "id": 71,
+    "id": 56,
     "anime": "Chibi Godzilla no Gyakushuu 3rd Season",
     "season": 3,
     "episode": 48,
@@ -4872,7 +4680,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1859/150334.webp"
   },
   {
-    "id": 103,
+    "id": 88,
     "anime": "Classroom of the Elite 4th Season: Second Year, First Semester",
     "season": 4,
     "episode": 9,
@@ -4884,11 +4692,11 @@
     ],
     "malId": 59708,
     "score": 7.99,
-    "members": 216055,
+    "members": 216615,
     "image": "https://cdn.myanimelist.net/images/anime/1176/153626.webp"
   },
   {
-    "id": 91,
+    "id": 76,
     "anime": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3",
     "season": 3,
     "episode": 9,
@@ -4900,11 +4708,11 @@
     ],
     "malId": 62512,
     "score": 6.53,
-    "members": 28489,
+    "members": 28575,
     "image": "https://cdn.myanimelist.net/images/anime/1905/156697.webp"
   },
   {
-    "id": 107,
+    "id": 92,
     "anime": "Re:ZERO -Starting Life in Another World- Season 4",
     "season": 4,
     "episode": 8,
@@ -4916,11 +4724,11 @@
     ],
     "malId": 61316,
     "score": 9.2,
-    "members": 266947,
+    "members": 268504,
     "image": "https://cdn.myanimelist.net/images/anime/1540/155824.webp"
   },
   {
-    "id": 95,
+    "id": 80,
     "anime": "The Beginning After the End Season 2",
     "season": 2,
     "episode": 9,
@@ -4931,12 +4739,12 @@
       "Crunchyroll"
     ],
     "malId": 61831,
-    "score": 5.84,
-    "members": 68289,
+    "score": 5.85,
+    "members": 68506,
     "image": "https://cdn.myanimelist.net/images/anime/1738/156028.webp"
   },
   {
-    "id": 99,
+    "id": 84,
     "anime": "Gals Can't Be Kind to Otaku!?",
     "season": 1,
     "episode": 8,
@@ -4948,11 +4756,11 @@
     ],
     "malId": 62604,
     "score": 7.57,
-    "members": 97363,
+    "members": 97785,
     "image": "https://cdn.myanimelist.net/images/anime/1956/155456.webp"
   },
   {
-    "id": 75,
+    "id": 60,
     "anime": "Eren the Southpaw",
     "season": 1,
     "episode": 8,
@@ -4964,11 +4772,11 @@
     ],
     "malId": 53732,
     "score": 6.09,
-    "members": 18398,
+    "members": 18442,
     "image": "https://cdn.myanimelist.net/images/anime/1015/156388.webp"
   },
   {
-    "id": 79,
+    "id": 64,
     "anime": "Pardon the Intrusion, I'm Home!",
     "season": 1,
     "episode": 8,
@@ -4979,12 +4787,12 @@
       "Crunchyroll"
     ],
     "malId": 63014,
-    "score": 6.46,
-    "members": 20113,
+    "score": 6.47,
+    "members": 20197,
     "image": "https://cdn.myanimelist.net/images/anime/1199/156106.webp"
   },
   {
-    "id": 83,
+    "id": 68,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 8,
@@ -4996,11 +4804,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 87,
+    "id": 72,
     "anime": "My Ribdiculous Reincarnation",
     "season": 1,
     "episode": 8,
@@ -5012,11 +4820,11 @@
     ],
     "malId": 63376,
     "score": 6.59,
-    "members": 27973,
+    "members": 28114,
     "image": "https://cdn.myanimelist.net/images/anime/1228/156696.webp"
   },
   {
-    "id": 31,
+    "id": 16,
     "anime": "Fushigi Dagashiya: Zenitendou",
     "season": 1,
     "episode": 299,
@@ -5028,11 +4836,11 @@
     ],
     "malId": 42295,
     "score": 6.15,
-    "members": 2434,
+    "members": 2436,
     "image": "https://cdn.myanimelist.net/images/anime/1602/150098.webp"
   },
   {
-    "id": 26,
+    "id": 11,
     "anime": "Origami Ninja Koyankinte",
     "season": 1,
     "episode": 321,
@@ -5048,7 +4856,7 @@
     "image": "https://cdn.myanimelist.net/images/anime/1860/106477.webp"
   },
   {
-    "id": 36,
+    "id": 21,
     "anime": "Beyond Twilight",
     "season": 1,
     "episode": 8,
@@ -5059,12 +4867,12 @@
       "Crunchyroll"
     ],
     "malId": 63469,
-    "score": 5.18,
-    "members": 3576,
+    "score": 5.19,
+    "members": 3580,
     "image": "https://cdn.myanimelist.net/images/anime/1589/156720.webp"
   },
   {
-    "id": 46,
+    "id": 31,
     "anime": "The Most Heretical Last Boss Queen: From Villainess to Savior Season 2",
     "season": 2,
     "episode": 8,
@@ -5076,11 +4884,11 @@
     ],
     "malId": 61931,
     "score": 7.11,
-    "members": 41590,
+    "members": 41712,
     "image": "https://cdn.myanimelist.net/images/anime/1916/155657.webp"
   },
   {
-    "id": 56,
+    "id": 41,
     "anime": "I Want to End This Love Game",
     "season": 1,
     "episode": 7,
@@ -5092,11 +4900,11 @@
     ],
     "malId": 61839,
     "score": 7.31,
-    "members": 78716,
+    "members": 79137,
     "image": "https://cdn.myanimelist.net/images/anime/1879/155958.webp"
   },
   {
-    "id": 61,
+    "id": 46,
     "anime": "Marriagetoxin",
     "season": 1,
     "episode": 8,
@@ -5108,11 +4916,11 @@
     ],
     "malId": 62601,
     "score": 7.52,
-    "members": 122363,
+    "members": 122967,
     "image": "https://cdn.myanimelist.net/images/anime/1927/154309.webp"
   },
   {
-    "id": 41,
+    "id": 26,
     "anime": "Even a Replica Can Fall in Love",
     "season": 1,
     "episode": 8,
@@ -5124,11 +4932,11 @@
     ],
     "malId": 61013,
     "score": 7,
-    "members": 26187,
+    "members": 26298,
     "image": "https://cdn.myanimelist.net/images/anime/1148/155671.webp"
   },
   {
-    "id": 66,
+    "id": 51,
     "anime": "I Made Friends with the Second Prettiest Girl in My Class",
     "season": 1,
     "episode": 8,
@@ -5140,11 +4948,11 @@
     ],
     "malId": 56734,
     "score": 7.91,
-    "members": 126426,
+    "members": 127129,
     "image": "https://cdn.myanimelist.net/images/anime/1423/155713.webp"
   },
   {
-    "id": 51,
+    "id": 36,
     "anime": "Liar Game",
     "season": 1,
     "episode": 8,
@@ -5156,8 +4964,8 @@
     ],
     "malId": 62331,
     "score": 6.33,
-    "members": 67852,
-    "image": "https://cdn.myanimelist.net/images/anime/1607/156078.webp"
+    "members": 68072,
+    "image": "https://cdn.myanimelist.net/images/anime/1984/158634.webp"
   },
   {
     "id": 6,
@@ -5172,56 +4980,8 @@
     ],
     "malId": 37096,
     "score": 6.1,
-    "members": 2078,
+    "members": 2079,
     "image": "https://cdn.myanimelist.net/images/anime/1460/149962.webp"
-  },
-  {
-    "id": 16,
-    "anime": "Farming Life in Another World Season 2",
-    "season": 2,
-    "episode": 8,
-    "title": "Zoku Onsen Chousatai ",
-    "date": "2026-05-25",
-    "releaseTime": "08:00 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 62146,
-    "score": 7.42,
-    "members": 77159,
-    "image": "https://cdn.myanimelist.net/images/anime/1656/156369.webp"
-  },
-  {
-    "id": 21,
-    "anime": "Witch Hat Atelier",
-    "season": 1,
-    "episode": 8,
-    "title": "Makeidan no Ginen ",
-    "date": "2026-05-25",
-    "releaseTime": "08:30 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 51553,
-    "score": 8.67,
-    "members": 345756,
-    "image": "https://cdn.myanimelist.net/images/anime/1726/155542.webp"
-  },
-  {
-    "id": 11,
-    "anime": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-    "season": 1,
-    "episode": 8,
-    "title": "Ponkotsu ga Fui ni Massugu na Me wo Shita Hanashi ",
-    "date": "2026-05-25",
-    "releaseTime": "08:54 PM",
-    "streaming": [
-      "Crunchyroll"
-    ],
-    "malId": 61425,
-    "score": 7.58,
-    "members": 50787,
-    "image": "https://cdn.myanimelist.net/images/anime/1484/155726.webp"
   },
   {
     "id": 1,
