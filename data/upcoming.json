@@ -183,14 +183,6 @@
     "releaseTime": "08:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1891/158566.webp"
   },
-  "kaiju girl caramelise": {
-    "anime": "Kaiju Girl Caramelise",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-07-10",
-    "releaseTime": "10:58 PM",
-    "image": "https://cdn.myanimelist.net/images/anime/1981/156340.webp"
-  },
   "chiikawa": {
     "anime": "Chiikawa",
     "season": 1,
@@ -206,6 +198,14 @@
     "date": "2026-07-10",
     "releaseTime": "04:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/6/23935.webp"
+  },
+  "kaiju girl caramelise": {
+    "anime": "Kaiju Girl Caramelise",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-10",
+    "releaseTime": "10:58 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1981/156340.webp"
   },
   "the exiled heavy knight knows how to game the system": {
     "anime": "The Exiled Heavy Knight Knows How to Game the System",
@@ -287,6 +287,30 @@
     "releaseTime": "02:22 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1686/149949.webp"
   },
+  "kamui: he's behind you": {
+    "anime": "KAMUI: He's Behind You",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-11",
+    "releaseTime": "11:00 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1071/158366.webp"
+  },
+  "recommendations from iwamoto-senpai": {
+    "anime": "Recommendations from Iwamoto-Senpai",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-11",
+    "releaseTime": "08:00 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1112/158450.webp"
+  },
+  "please excuse my younger brothers": {
+    "anime": "Please Excuse My Younger Brothers",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-11",
+    "releaseTime": "09:30 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1902/156345.webp"
+  },
   "the cat and the dragon": {
     "anime": "The Cat and the Dragon",
     "season": 1,
@@ -294,6 +318,14 @@
     "date": "2026-07-11",
     "releaseTime": "06:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1878/157796.webp"
+  },
+  "jaadugar: a witch in mongolia": {
+    "anime": "Jaadugar: A Witch in Mongolia",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-11",
+    "releaseTime": "09:00 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1368/158227.webp"
   },
   "hell mode: the hardcore gamer dominates in another world with garbage balancing season 2": {
     "anime": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
@@ -362,88 +394,120 @@
   "kumarba season 3": {
     "anime": "Kumarba Season 3",
     "season": 3,
-    "episode": 13,
-    "date": "2026-07-05",
+    "episode": 14,
+    "date": "2026-07-12",
     "releaseTime": "04:30 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1148/155162.webp"
   },
   "shou 3 ashibe qq goma-chan": {
     "anime": "Shou 3 Ashibe QQ Goma-chan",
     "season": 1,
-    "episode": 13,
-    "date": "2026-07-05",
+    "episode": 14,
+    "date": "2026-07-12",
     "releaseTime": "04:30 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1899/155697.webp"
   },
   "manul no yuube": {
     "anime": "Manul no Yuube",
     "season": 1,
-    "episode": 400,
-    "date": "2026-07-05",
+    "episode": 401,
+    "date": "2026-07-12",
     "releaseTime": "12:00 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1980/96936.webp"
   },
   "onegai aipri": {
     "anime": "Onegai AiPri",
     "season": 1,
-    "episode": 14,
-    "date": "2026-07-05",
+    "episode": 15,
+    "date": "2026-07-12",
     "releaseTime": "07:00 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1705/155680.webp"
+  },
+  "grow up show: sunflower circus": {
+    "anime": "Grow Up Show: Sunflower Circus",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-12",
+    "releaseTime": "09:30 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1329/158716.webp"
   },
   "koupen-chan": {
     "anime": "Koupen-chan",
     "season": 1,
-    "episode": 66,
-    "date": "2026-07-05",
+    "episode": 67,
+    "date": "2026-07-12",
     "releaseTime": "05:30 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1533/146981.webp"
   },
   "star detective precure!": {
     "anime": "Star Detective Precure!",
     "season": 1,
-    "episode": 23,
-    "date": "2026-07-05",
+    "episode": 24,
+    "date": "2026-07-12",
     "releaseTime": "06:00 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1706/154944.webp"
+  },
+  "magical girl lyrical nanoha exceeds gun blaze vengeance": {
+    "anime": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-12",
+    "releaseTime": "10:30 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1685/158611.webp"
   },
   "little miss maruko": {
     "anime": "Little Miss Maruko",
     "season": 1,
-    "episode": 1644,
-    "date": "2026-07-05",
+    "episode": 1645,
+    "date": "2026-07-12",
     "releaseTime": "03:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1678/153148.webp"
+  },
+  "the duke’s son claims he won’t love me yet showers me with adoration": {
+    "anime": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-12",
+    "releaseTime": "11:00 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1217/158710.webp"
   },
   "mrs. sazae": {
     "anime": "Mrs. Sazae",
     "season": 1,
-    "episode": 2962,
-    "date": "2026-07-05",
+    "episode": 2963,
+    "date": "2026-07-12",
     "releaseTime": "04:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1008/98996.webp"
+  },
+  "the ogre's bride": {
+    "anime": "The Ogre's Bride",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-12",
+    "releaseTime": "10:00 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1082/158708.webp"
   },
   "digimon beatbreak": {
     "anime": "Digimon Beatbreak",
     "season": 1,
-    "episode": 40,
-    "date": "2026-07-05",
+    "episode": 41,
+    "date": "2026-07-12",
     "releaseTime": "06:30 AM",
     "image": "https://cdn.myanimelist.net/images/anime/1776/151242.webp"
   },
   "the classroom of a black cat and a witch": {
     "anime": "The Classroom of a Black Cat and a Witch",
     "season": 1,
-    "episode": 13,
-    "date": "2026-07-05",
+    "episode": 14,
+    "date": "2026-07-12",
     "releaseTime": "09:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1716/153989.webp"
   },
   "one piece": {
     "anime": "One Piece",
     "season": 1,
-    "episode": 1395,
-    "date": "2026-07-05",
+    "episode": 1396,
+    "date": "2026-07-12",
     "releaseTime": "08:45 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1244/138851.webp"
   }
