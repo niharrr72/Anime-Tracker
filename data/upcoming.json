@@ -55,14 +55,6 @@
     "releaseTime": "08:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1417/157798.webp"
   },
-  "the insipid prince's furtive grab for the throne": {
-    "anime": "The Insipid Prince's Furtive Grab for The Throne",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-07-13",
-    "releaseTime": "06:27 PM",
-    "image": "https://cdn.myanimelist.net/images/anime/1529/158522.webp"
-  },
   "a livid lady's guide to getting even: how i crushed my homeland with my mighty grimoires": {
     "anime": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
     "season": 1,
@@ -70,6 +62,14 @@
     "date": "2026-07-13",
     "releaseTime": "08:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1551/157170.webp"
+  },
+  "the insipid prince's furtive grab for the throne": {
+    "anime": "The Insipid Prince's Furtive Grab for The Throne",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-13",
+    "releaseTime": "06:27 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1529/158522.webp"
   },
   "goodbye, lara": {
     "anime": "Goodbye, Lara",
@@ -87,14 +87,6 @@
     "releaseTime": "08:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1371/154308.webp"
   },
-  "love unseen beneath the clear night sky": {
-    "anime": "Love Unseen Beneath the Clear Night Sky",
-    "season": 1,
-    "episode": 2,
-    "date": "2026-07-13",
-    "releaseTime": "06:30 PM",
-    "image": "https://cdn.myanimelist.net/images/anime/1145/158339.webp"
-  },
   "oh boy, was i wrong about her": {
     "anime": "Oh Boy, Was I Wrong About Her",
     "season": 1,
@@ -102,6 +94,14 @@
     "date": "2026-07-13",
     "releaseTime": "09:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1352/158564.webp"
+  },
+  "love unseen beneath the clear night sky": {
+    "anime": "Love Unseen Beneath the Clear Night Sky",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-13",
+    "releaseTime": "06:30 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1145/158339.webp"
   },
   "skeleton knight in another world ii": {
     "anime": "Skeleton Knight in Another World II",
@@ -231,6 +231,14 @@
     "releaseTime": "07:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1498/158290.webp"
   },
+  "from old country bumpkin to master swordsman season 2": {
+    "anime": "From Old Country Bumpkin to Master Swordsman Season 2",
+    "season": 2,
+    "episode": 2,
+    "date": "2026-07-15",
+    "releaseTime": "09:15 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1100/157173.webp"
+  },
   "clevatess season 2": {
     "anime": "Clevatess Season 2",
     "season": 2,
@@ -258,72 +266,80 @@
   "candy caries": {
     "anime": "Candy Caries",
     "season": 1,
-    "episode": 13,
-    "date": "2026-07-09",
+    "episode": 14,
+    "date": "2026-07-16",
     "releaseTime": "10:25 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1780/154909.webp"
   },
   "bang dream! yume∞mita": {
     "anime": "BanG Dream! YUME∞MITA",
     "season": 1,
-    "episode": 2,
-    "date": "2026-07-09",
+    "episode": 3,
+    "date": "2026-07-16",
     "releaseTime": "08:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1467/158693.webp"
   },
   "bungo stray dogs wan! 2": {
     "anime": "Bungo Stray Dogs Wan! 2",
     "season": 1,
-    "episode": 2,
-    "date": "2026-07-09",
+    "episode": 3,
+    "date": "2026-07-16",
     "releaseTime": "07:10 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1591/157071.webp"
   },
   "hana-kimi season 2": {
     "anime": "Hana-Kimi Season 2",
     "season": 2,
-    "episode": 2,
-    "date": "2026-07-09",
+    "episode": 3,
+    "date": "2026-07-16",
     "releaseTime": "10:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1899/158523.webp"
   },
   "dara-san of reiwa": {
     "anime": "Dara-san of Reiwa",
     "season": 1,
-    "episode": 2,
-    "date": "2026-07-09",
+    "episode": 3,
+    "date": "2026-07-16",
     "releaseTime": "07:00 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1170/155761.webp"
+  },
+  "tomb raider king": {
+    "anime": "Tomb Raider King",
+    "season": 1,
+    "episode": 2,
+    "date": "2026-07-16",
+    "releaseTime": "10:45 PM",
+    "image": "https://cdn.myanimelist.net/images/anime/1910/158471.webp"
   },
   "the world is dancing": {
     "anime": "The World Is Dancing",
     "season": 1,
-    "episode": 2,
-    "date": "2026-07-09",
+    "episode": 3,
+    "date": "2026-07-16",
     "releaseTime": "07:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1165/158709.webp"
   },
   "the villager of level 999": {
     "anime": "The Villager of Level 999",
     "season": 1,
-    "episode": 2,
-    "date": "2026-07-09",
+    "episode": 3,
+    "date": "2026-07-16",
     "releaseTime": "09:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1366/158400.webp"
   },
   "from overshadowed to overpowered: second reincarnation of a talentless sage": {
     "anime": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
     "season": 1,
-    "episode": 2,
-    "date": "2026-07-09",
+    "episode": 3,
+    "date": "2026-07-16",
     "releaseTime": "09:30 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1319/158376.webp"
   },
   "smoking behind the supermarket with you": {
     "anime": "Smoking Behind the Supermarket with You",
     "season": 1,
-    "episode": 6,
-    "date": "2026-07-09",
+    "episode": 7,
+    "date": "2026-07-16",
     "releaseTime": "09:26 PM",
     "image": "https://cdn.myanimelist.net/images/anime/1768/156339.webp"
   },
